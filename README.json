@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-31T13:34:05Z",
+            "last_commit": "2026-08-13T09:46:05Z",
             "owner": "collective",
             "repo": "collective.documentgenerator",
             "stars": 16
@@ -679,7 +679,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:08:12Z",
+            "last_commit": "2026-08-14T05:59:51Z",
             "owner": "collective",
             "repo": "collective.tiles.carousel",
             "stars": 0
@@ -1239,7 +1239,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-29T12:54:04Z",
+            "last_commit": "2026-08-13T16:25:21Z",
             "owner": "collective",
             "repo": "pas.plugins.oidc",
             "stars": 6
@@ -1769,7 +1769,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:40:35.288Z",
+    "last_updated": "2026-08-14T06:23:53.364Z",
     "original_repository": "collective/awesome-plone",
     "original_repository_sha": "2a8601ac9e3a78326e5f9a7991ba80de139d0e10",
     "enhanced_repository": "enhansome/enhansome-plone",
