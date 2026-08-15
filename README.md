@@ -52,7 +52,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [Products.EasyNewsletter](https://github.com/collective/Products.EasyNewsletter) ⭐ 29 | 🐛 25 | 🌐 Python | 📅 2026-08-06 - Powerful newsletter/mailing product for Plone.
 * [collective.documentviewer](https://github.com/collective/collective.documentviewer) ⭐ 20 | 🐛 21 | 🌐 Python | 📅 2025-09-04 - Very nice document viewer that integrates DocumentCloud viewer and PDF processing into Plone.
-* [collective.documentgenerator](https://github.com/collective/collective.documentgenerator) ⭐ 16 | 🐛 7 | 🌐 Python | 📅 2026-08-13 - Generate Documents (.odt, .pdf, .doc) from content based on appy framework (<https://appyframe.work/>) and OpenOffice/LibreOffice.
+* [collective.documentgenerator](https://github.com/collective/collective.documentgenerator) ⭐ 16 | 🐛 8 | 🌐 Python | 📅 2026-08-14 - Generate Documents (.odt, .pdf, .doc) from content based on appy framework (<https://appyframe.work/>) and OpenOffice/LibreOffice.
 * [collective.lineage](https://github.com/collective/collective.lineage) ⭐ 12 | 🐛 12 | 🌐 Python | 📅 2026-07-25 - Subsites: Turns subfolders of a Plone site to appear as autonomous Plone sites. There is also a whole ecosystem off addons specific to subsites.
 * [collective.dexteritytextindexer](https://github.com/collective/collective.dexteritytextindexer) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2022-12-27 - Dynamic SearchableText index for dexterity content types. For Plone 6 this was merged into Plone core.
 * [collective.workspace](https://github.com/collective/collective.workspace) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2026-05-07 - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
@@ -103,7 +103,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [collective.cover](https://github.com/collective/collective.cover) ⭐ 48 | 🐛 78 | 🌐 Python | 📅 2025-04-22 - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
 * [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 105 | 🌐 JavaScript | 📅 2026-08-05 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
-* [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 4 | 🌐 Python | 📅 2026-06-17 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
+* [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 5 | 🌐 Python | 📅 2026-08-14 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 * [collective.gridlisting](https://github.com/collective/collective.gridlisting) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-07-25 - Adds a dexterity behavior and a browser template to manipulate folder and collection listings by adding Bootstrap 5 CSS classes and `pat-masonry` from patternslib.
 
 ## Tiles
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
