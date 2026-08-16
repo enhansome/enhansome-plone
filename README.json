@@ -527,7 +527,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-28T07:00:29Z",
+            "last_commit": "2026-08-15T21:02:42Z",
             "owner": "collective",
             "repo": "Products.PloneKeywordManager",
             "stars": 4
@@ -617,7 +617,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:13:18Z",
+            "last_commit": "2026-08-15T18:32:01Z",
             "owner": "collective",
             "repo": "collective.contentsections",
             "stars": 10
@@ -1225,7 +1225,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-28T07:01:04Z",
+            "last_commit": "2026-08-15T16:52:41Z",
             "owner": "collective",
             "repo": "collective.impersonate",
             "stars": 8
@@ -1467,7 +1467,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-28T07:24:12Z",
+            "last_commit": "2026-08-16T05:02:37Z",
             "owner": "plone",
             "repo": "plone.reload",
             "stars": 12
@@ -1509,7 +1509,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-28T09:00:53Z",
+            "last_commit": "2026-08-15T17:22:22Z",
             "owner": "collective",
             "repo": "Products.PDBDebugMode",
             "stars": 2
@@ -1769,7 +1769,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:35:52.352Z",
+    "last_updated": "2026-08-16T05:38:28.423Z",
     "original_repository": "collective/awesome-plone",
     "original_repository_sha": "2a8601ac9e3a78326e5f9a7991ba80de139d0e10",
     "enhanced_repository": "enhansome/enhansome-plone",
