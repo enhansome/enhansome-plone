@@ -120,7 +120,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 *Add-ons that handle events and calendars.*
 
 * [collective.venue](https://github.com/collective/collective.venue) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-07-01 - Venue type with geolocation support for use with events or any other location specific content.
-* [collective.easyformplugin.registration](https://github.com/collective/collective.easyformplugin.registration) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-08-03 - Add a behavior to collective.easyform to manage registration forms for events.
+* [collective.easyformplugin.registration](https://github.com/collective/collective.easyformplugin.registration) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Add a behavior to collective.easyform to manage registration forms for events.
 * [collective.fullcalendar](https://github.com/collective/collective.fullcalendar) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2024-12-21 - Display events in a nice calendar UI using <https://fullcalendar.io>.
 
 ## Forms
