@@ -57,7 +57,7 @@
             "archived": false,
             "id": 3264054,
             "language": "Python",
-            "last_commit": "2026-08-18T17:35:09Z",
+            "last_commit": "2026-08-19T12:59:48Z",
             "owner": "collective",
             "repo": "collective.lineage",
             "stars": 12
@@ -474,7 +474,7 @@
             "archived": false,
             "id": 6598917,
             "language": "Python",
-            "last_commit": "2026-08-05T15:53:12Z",
+            "last_commit": "2026-08-19T14:42:06Z",
             "owner": "collective",
             "repo": "collective.elasticsearch",
             "stars": 18
@@ -696,7 +696,7 @@
             "archived": false,
             "id": 2414896,
             "language": "Python",
-            "last_commit": "2026-08-03T19:31:06Z",
+            "last_commit": "2026-08-19T23:33:02Z",
             "owner": "plone",
             "repo": "plone.app.standardtiles",
             "stars": 7
@@ -1883,7 +1883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:27.515Z",
+    "last_updated": "2026-08-20T05:41:53.723Z",
     "original_repository": "collective/awesome-plone",
     "original_repository_id": 123825556,
     "original_repository_sha": "2a8601ac9e3a78326e5f9a7991ba80de139d0e10",
