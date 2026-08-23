@@ -489,7 +489,7 @@
             "archived": false,
             "id": 6044962,
             "language": "Python",
-            "last_commit": "2026-08-21T21:23:48Z",
+            "last_commit": "2026-08-22T22:10:47Z",
             "owner": "collective",
             "repo": "collective.taxonomy",
             "stars": 18
@@ -564,7 +564,7 @@
             "archived": false,
             "id": 4799743,
             "language": "Python",
-            "last_commit": "2026-08-16T06:51:33Z",
+            "last_commit": "2026-08-22T22:06:53Z",
             "owner": "collective",
             "repo": "Products.PloneKeywordManager",
             "stars": 4
@@ -1308,7 +1308,7 @@
             "archived": false,
             "id": 84196371,
             "language": "Python",
-            "last_commit": "2026-08-16T06:52:54Z",
+            "last_commit": "2026-08-22T22:07:21Z",
             "owner": "collective",
             "repo": "collective.impersonate",
             "stars": 8
@@ -1566,7 +1566,7 @@
             "archived": false,
             "id": 1563066,
             "language": "Python",
-            "last_commit": "2026-08-16T06:45:58Z",
+            "last_commit": "2026-08-23T05:02:34Z",
             "owner": "plone",
             "repo": "plone.reload",
             "stars": 12
@@ -1611,7 +1611,7 @@
             "archived": false,
             "id": 9357035,
             "language": "Python",
-            "last_commit": "2026-08-16T06:52:10Z",
+            "last_commit": "2026-08-22T22:07:06Z",
             "owner": "collective",
             "repo": "Products.PDBDebugMode",
             "stars": 2
@@ -1737,7 +1737,7 @@
             "archived": false,
             "id": 202495001,
             "language": "Python",
-            "last_commit": "2026-08-21T17:53:34Z",
+            "last_commit": "2026-08-22T22:10:58Z",
             "owner": "collective",
             "repo": "collective.sentry",
             "stars": 7
@@ -1883,7 +1883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:37:26.984Z",
+    "last_updated": "2026-08-23T05:39:18.844Z",
     "original_repository": "collective/awesome-plone",
     "original_repository_id": 123825556,
     "original_repository_sha": "2a8601ac9e3a78326e5f9a7991ba80de139d0e10",
