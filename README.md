@@ -52,7 +52,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [Products.EasyNewsletter](https://github.com/collective/Products.EasyNewsletter) ⭐ 29 | 🐛 25 | 🌐 Python | 📅 2026-08-06 - Powerful newsletter/mailing product for Plone.
 * [collective.documentviewer](https://github.com/collective/collective.documentviewer) ⭐ 20 | 🐛 21 | 🌐 Python | 📅 2025-09-04 - Very nice document viewer that integrates DocumentCloud viewer and PDF processing into Plone.
-* [collective.documentgenerator](https://github.com/collective/collective.documentgenerator) ⭐ 16 | 🐛 8 | 🌐 Python | 📅 2026-08-18 - Generate Documents (.odt, .pdf, .doc) from content based on appy framework (<https://appyframe.work/>) and OpenOffice/LibreOffice.
+* [collective.documentgenerator](https://github.com/collective/collective.documentgenerator) ⭐ 16 | 🐛 10 | 🌐 Python | 📅 2026-08-25 - Generate Documents (.odt, .pdf, .doc) from content based on appy framework (<https://appyframe.work/>) and OpenOffice/LibreOffice.
 * [collective.lineage](https://github.com/collective/collective.lineage) ⭐ 12 | 🐛 12 | 🌐 Python | 📅 2026-08-19 - Subsites: Turns subfolders of a Plone site to appear as autonomous Plone sites. There is also a whole ecosystem off addons specific to subsites.
 * [collective.dexteritytextindexer](https://github.com/collective/collective.dexteritytextindexer) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2022-12-27 - Dynamic SearchableText index for dexterity content types. For Plone 6 this was merged into Plone core.
 * [collective.workspace](https://github.com/collective/collective.workspace) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2026-05-07 - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
@@ -102,8 +102,8 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 *Products and resources that help developers and users to create and manage site layouts.*
 
 * [collective.cover](https://github.com/collective/collective.cover) ⭐ 48 | 🐛 78 | 🌐 Python | 📅 2025-04-22 - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
-* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 99 | 🌐 JavaScript | 📅 2026-08-24 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
-* [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 5 | 🌐 Python | 📅 2026-08-24 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
+* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 100 | 🌐 JavaScript | 📅 2026-08-25 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
+* [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 5 | 🌐 Python | 📅 2026-08-25 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 * [collective.gridlisting](https://github.com/collective/collective.gridlisting) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-07-25 - Adds a dexterity behavior and a browser template to manipulate folder and collection listings by adding Bootstrap 5 CSS classes and `pat-masonry` from patternslib.
 
 ## Tiles
@@ -142,7 +142,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [plone.app.multilingualindexes](https://github.com/plone/plone.app.multilingualindexes) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2021-11-22 - Indexes optimized to query multilingual content made with plone.app.multilingual.
 * [collective.multilingual](https://github.com/collective/collective.multilingual/tree/fix-tests) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-07-02 - This add-on provides support for content in multiple languages (multilingual).
 * [collective.linguatags](https://github.com/collective/collective.linguatags) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2023-06-14 - Multilingual Tags for Plone.
-* [cs.adminlanguage](https://github.com/codesyntax/cs.adminlanguage) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-08-12 - Configure a language to be used when editing your Plone site, independent to the site language.
+* [cs.adminlanguage](https://github.com/codesyntax/cs.adminlanguage) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-08-25 - Configure a language to be used when editing your Plone site, independent to the site language.
 
 ## Media
 
@@ -181,8 +181,8 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [pas.plugins.ldap](https://github.com/collective/pas.plugins.ldap) ⭐ 13 | 🐛 14 | 🌐 Python | 📅 2026-08-20 - Provides users and groups from a LDAP directory.
 * [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic) ⭐ 10 | 🐛 16 | 🌐 Python | 📅 2026-07-14 - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
-* [collective.impersonate](https://github.com/collective/collective.impersonate) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-08-22 - Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.
-* [pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) ⭐ 6 | 🐛 19 | 🌐 Python | 📅 2026-08-13 - Login using OIDC providers.
+* [collective.impersonate](https://github.com/collective/collective.impersonate) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-08-25 - Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.
+* [pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) ⭐ 6 | 🐛 19 | 🌐 Python | 📅 2026-08-25 - Login using OIDC providers.
 * [iw.rejectanonymous](https://github.com/collective/iw.rejectanonymous) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2026-05-07 - Reject unconditionnally anonymous users from a Plone site, without any change in your security policy matrix or workflows. The basic use case is an extranet, where all visitors must be authenticated.
 * [pas.plugins.headers](https://github.com/collective/pas.plugins.headers) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
 * [wcs.samlauth](https://github.com/collective/wcs.samlauth) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-12-17 - Login using SAML providers.
@@ -214,7 +214,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 *Add-ons that help developing Plone*
 
 * [plone.reload](https://github.com/plone/plone.reload) ⭐ 12 | 🐛 7 | 🌐 Python | 📅 2026-08-24 - Code and configuration reload without server restarts.
-* [plone.app.debugtoolbar](https://github.com/plone/plone.app.debugtoolbar) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2026-07-28 - A toolbar that shows a wealth of debug information about a running Plone site and the content you are inspecting. Also includes a interactive python-shell, a TALES-expression evaluator and and code-reload.
+* [plone.app.debugtoolbar](https://github.com/plone/plone.app.debugtoolbar) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2026-08-25 - A toolbar that shows a wealth of debug information about a running Plone site and the content you are inspecting. Also includes a interactive python-shell, a TALES-expression evaluator and and code-reload.
 * [collective.relationhelpers](https://github.com/collective/collective.relationhelpers) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2023-11-01 - Helpers to manage, create, export and rebuild relations in Plone 5.x. For Plone 6 this was merged into Plone core.
 * [Products.PDBDebugMode](https://github.com/collective/Products.PDBDebugMode) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-08-22 - Post-mortem debugging: open a pdb session whenever an exception occurs so you you can find out what is going wrong. Plus: By adding /pdb to a url you end up you in a pdb session on the current context. A killer tool for developers.
 * [Products.PrintingMailHost](https://github.com/collective/Products.PrintingMailHost) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-07-25 - Log mail messages instead of sending mail.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
