@@ -660,7 +660,7 @@
             "archived": false,
             "id": 432243270,
             "language": "Python",
-            "last_commit": "2026-08-25T12:27:03Z",
+            "last_commit": "2026-08-27T15:39:28Z",
             "owner": "collective",
             "repo": "collective.contentsections",
             "stars": 10
@@ -1883,7 +1883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:15.543Z",
+    "last_updated": "2026-08-27T16:25:41.107Z",
     "original_repository_info": {
       "archived": false,
       "id": 123825556,
