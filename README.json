@@ -42,7 +42,7 @@
             "archived": false,
             "id": 12105485,
             "language": "Python",
-            "last_commit": "2026-08-25T14:35:07Z",
+            "last_commit": "2026-08-26T08:03:51Z",
             "owner": "collective",
             "repo": "collective.documentgenerator",
             "stars": 16
@@ -645,7 +645,7 @@
             "archived": false,
             "id": 20396366,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T17:55:57Z",
+            "last_commit": "2026-08-26T09:12:20Z",
             "owner": "plone",
             "repo": "plone.app.mosaic",
             "stars": 35
@@ -1883,9 +1883,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:45:43.508Z",
-    "original_repository": "collective/awesome-plone",
-    "original_repository_id": 123825556,
+    "last_updated": "2026-08-27T11:56:15.543Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 123825556,
+      "language": null,
+      "last_commit": "2026-06-05T05:41:53Z",
+      "owner": "collective",
+      "repo": "awesome-plone",
+      "stars": 77
+    },
     "original_repository_sha": "2a8601ac9e3a78326e5f9a7991ba80de139d0e10",
     "enhanced_repository": "enhansome/enhansome-plone",
     "enhanced_repository_description": null,
