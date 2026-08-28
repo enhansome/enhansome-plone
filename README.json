@@ -16,7 +16,8 @@
             "owner": "collective",
             "repo": "Products.EasyNewsletter",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "collective",
             "repo": "collective.documentviewer",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 12105485,
             "language": "Python",
-            "last_commit": "2026-08-26T08:03:51Z",
+            "last_commit": "2026-08-28T12:38:09Z",
             "owner": "collective",
             "repo": "collective.documentgenerator",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "collective",
             "repo": "collective.lineage",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "collective",
             "repo": "collective.dexteritytextindexer",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "collective",
             "repo": "collective.workspace",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "collective",
             "repo": "collective.easyformplugin.createdx",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "collective",
             "repo": "collective.pdfjs",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "collective",
             "repo": "collective.mailchimp",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "collective",
             "repo": "collective.glossary",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "collective",
             "repo": "collective.folderishtraverse",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "collective",
             "repo": "dexterity.membrane",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "plone",
             "repo": "plone.pdfexport",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "collective",
             "repo": "collective.folderishtypes",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "collective",
             "repo": "collective.geolocationbehavior",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "collective",
             "repo": "collective.person",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "collective",
             "repo": "collective.consent",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "collective",
             "repo": "collective.mirror",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "collective",
             "repo": "collective.remoteproxy",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "zopyx",
             "repo": "zopyx.ipsumplone",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "collective",
             "repo": "collective.folderorder",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "collective",
             "repo": "collective.embeddedpage",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "collective",
             "repo": "collective.immediatecreate",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "collective",
             "repo": "collective.mustread",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "collective",
             "repo": "collective.restrictportlets",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Content and utilities for content"
@@ -397,7 +422,8 @@
             "owner": "collective",
             "repo": "collective.collabora",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "collective",
             "repo": "collective.bbcodesnippets",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "collective",
             "repo": "collective.richdescription",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "collective",
             "repo": "collective.a11ycheck",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Editing"
@@ -463,7 +492,8 @@
             "owner": "collective",
             "repo": "collective.solr",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "collective",
             "repo": "collective.elasticsearch",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "collective",
             "repo": "collective.taxonomy",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "collective",
             "repo": "cioppino.twothumbs",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "collective",
             "repo": "collective.collectionfilter",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "collective",
             "repo": "collective.searchandreplace",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "collective",
             "repo": "eea.facetednavigation",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "collective",
             "repo": "Products.PloneKeywordManager",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "zopyx",
             "repo": "zopyx.typesense",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "collective",
             "repo": "collective.elastic.plone",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -609,11 +648,12 @@
             "archived": false,
             "id": 254036748,
             "language": "Python",
-            "last_commit": "2026-05-08T00:49:49Z",
+            "last_commit": "2026-08-28T14:55:28Z",
             "owner": "collective",
             "repo": "collective.bookmarks",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Searching and Categorizing"
@@ -634,7 +674,8 @@
             "owner": "collective",
             "repo": "collective.cover",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "plone",
             "repo": "plone.app.mosaic",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "collective",
             "repo": "collective.contentsections",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "collective",
             "repo": "collective.gridlisting",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Layout"
@@ -700,7 +744,8 @@
             "owner": "plone",
             "repo": "plone.app.standardtiles",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -715,7 +760,8 @@
             "owner": "collective",
             "repo": "collective.tiles.collection",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -730,7 +776,8 @@
             "owner": "collective",
             "repo": "collective.tiles.carousel",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -745,7 +792,8 @@
             "owner": "collective",
             "repo": "collective.tiles.advancedstatic",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Tiles"
@@ -766,7 +814,8 @@
             "owner": "collective",
             "repo": "collective.venue",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -781,7 +830,8 @@
             "owner": "collective",
             "repo": "collective.easyformplugin.registration",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -796,7 +846,8 @@
             "owner": "collective",
             "repo": "collective.fullcalendar",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Events"
@@ -817,7 +868,8 @@
             "owner": "collective",
             "repo": "collective.easyform",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -832,7 +884,8 @@
             "owner": "collective",
             "repo": "collective.z3cform.datagridfield",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -847,7 +900,8 @@
             "owner": "collective",
             "repo": "collective.honeypot",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -862,7 +916,8 @@
             "owner": "collective",
             "repo": "collective.z3cform.norobots",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -877,7 +932,8 @@
             "owner": "collective",
             "repo": "collective.fieldedit",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -892,7 +948,8 @@
             "owner": "plone",
             "repo": "plone.formwidget.hcaptcha",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -907,7 +964,8 @@
             "owner": "bluedynamics",
             "repo": "yafowil.plone",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Forms"
@@ -928,7 +986,8 @@
             "owner": "plone",
             "repo": "plone.app.multilingualindexes",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -943,7 +1002,8 @@
             "owner": "collective",
             "repo": "collective.multilingual",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -958,7 +1018,8 @@
             "owner": "collective",
             "repo": "collective.linguatags",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -973,7 +1034,8 @@
             "owner": "codesyntax",
             "repo": "cs.adminlanguage",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Multilingual"
@@ -994,7 +1056,8 @@
             "owner": "collective",
             "repo": "wildcard.media",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1009,7 +1072,8 @@
             "owner": "collective",
             "repo": "plone.app.imagecropping",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1088,8 @@
             "owner": "collective",
             "repo": "collective.lazysizes",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1104,8 @@
             "owner": "plone",
             "repo": "plone.gallery",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1120,8 @@
             "owner": "collective",
             "repo": "collective.behavior.relatedmedia",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1136,8 @@
             "owner": "collective",
             "repo": "collective.behavior.banner",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1152,8 @@
             "owner": "RedTurtle",
             "repo": "redturtle.gallery",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1168,8 @@
             "owner": "collective",
             "repo": "collective.autoscaling",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1184,8 @@
             "owner": "codesyntax",
             "repo": "cs_flickrgallery",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1200,8 @@
             "owner": "collective",
             "repo": "collective.wavesurfer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Media"
@@ -1150,7 +1222,8 @@
             "owner": "collective",
             "repo": "collective.geotransform",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1238,8 @@
             "owner": "collective",
             "repo": "collective.explicitacquisition",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1180,7 +1254,8 @@
             "owner": "collective",
             "repo": "collective.lockdown",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1195,7 +1270,8 @@
             "owner": "collective",
             "repo": "collective.contactformprotection",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Security"
@@ -1216,7 +1292,8 @@
             "owner": "collective",
             "repo": "collective.behavior.seo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1231,7 +1308,8 @@
             "owner": "bluedynamics",
             "repo": "bda.plone.gtm",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1246,7 +1324,8 @@
             "owner": "kitconcept",
             "repo": "kitconcept.seo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1261,7 +1340,8 @@
             "owner": "collective",
             "repo": "collective.splitsitemap",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "SEO"
@@ -1282,7 +1362,8 @@
             "owner": "collective",
             "repo": "pas.plugins.ldap",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1297,7 +1378,8 @@
             "owner": "collective",
             "repo": "pas.plugins.authomatic",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1312,7 +1394,8 @@
             "owner": "collective",
             "repo": "collective.impersonate",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1327,7 +1410,8 @@
             "owner": "collective",
             "repo": "pas.plugins.oidc",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1342,7 +1426,8 @@
             "owner": "collective",
             "repo": "iw.rejectanonymous",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1357,7 +1442,8 @@
             "owner": "collective",
             "repo": "pas.plugins.headers",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1372,7 +1458,8 @@
             "owner": "collective",
             "repo": "wcs.samlauth",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1387,7 +1474,8 @@
             "owner": "collective",
             "repo": "collective.pwexpiry",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1402,7 +1490,8 @@
             "owner": "collective",
             "repo": "pas.plugins.eea",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Authentication"
@@ -1423,7 +1512,8 @@
             "owner": "collective",
             "repo": "collective.exportimport",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1528,8 @@
             "owner": "collective",
             "repo": "collective.migrationhelpers",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1453,7 +1544,8 @@
             "owner": "collective",
             "repo": "collective.jsonify",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1468,7 +1560,8 @@
             "owner": "collective",
             "repo": "collective.transmogrifier",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Export, Import and Migrations"
@@ -1489,7 +1582,8 @@
             "owner": "collective",
             "repo": "plonetheme.tokyo",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1504,7 +1598,8 @@
             "owner": "collective",
             "repo": "collective.sidebar",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1519,7 +1614,8 @@
             "owner": "RedTurtle",
             "repo": "collective.editablemenu",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1630,8 @@
             "owner": "collective",
             "repo": "plonetheme.grueezibuesi",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1549,7 +1646,8 @@
             "owner": "collective",
             "repo": "collective.localstyles",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Themes"
@@ -1570,7 +1668,8 @@
             "owner": "plone",
             "repo": "plone.reload",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1585,7 +1684,8 @@
             "owner": "plone",
             "repo": "plone.app.debugtoolbar",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1600,7 +1700,8 @@
             "owner": "collective",
             "repo": "collective.relationhelpers",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1615,7 +1716,8 @@
             "owner": "collective",
             "repo": "Products.PDBDebugMode",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1630,7 +1732,8 @@
             "owner": "collective",
             "repo": "Products.PrintingMailHost",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1645,7 +1748,8 @@
             "owner": "collective",
             "repo": "experimental.gracefulblobmissing",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1660,7 +1764,8 @@
             "owner": "collective",
             "repo": "collective.debugtools",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1675,7 +1780,8 @@
             "owner": "collective",
             "repo": "collective.patchwatcher",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1690,7 +1796,8 @@
             "owner": "collective",
             "repo": "collective.icecream",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1705,7 +1812,8 @@
             "owner": "collective",
             "repo": "collective.pdbpp",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Develop"
@@ -1726,7 +1834,8 @@
             "owner": "collective",
             "repo": "collective.regenv",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1741,7 +1850,8 @@
             "owner": "collective",
             "repo": "collective.sentry",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1756,7 +1866,8 @@
             "owner": "collective",
             "repo": "collective.purgebyid",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1771,7 +1882,8 @@
             "owner": "collective",
             "repo": "collective.revisionmanager",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1786,7 +1898,8 @@
             "owner": "collective",
             "repo": "collective.fingerpointing",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1801,7 +1914,8 @@
             "owner": "collective",
             "repo": "collective.recipe.backup",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1816,7 +1930,8 @@
             "owner": "collective",
             "repo": "haufe.requestmonitoring",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1831,7 +1946,8 @@
             "owner": "collective",
             "repo": "collective.catalogcleanup",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1846,7 +1962,8 @@
             "owner": "collective",
             "repo": "collective.ifttt",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1861,7 +1978,8 @@
             "owner": "collective",
             "repo": "collective.ftw.upgrade",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         },
         {
           "node_type": "item",
@@ -1876,14 +1994,15 @@
             "owner": "bluedynamics",
             "repo": "plone-registryfromenviron",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:23:05.252Z"
         }
       ],
       "title": "Sysadmin"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:25:41.107Z",
+    "last_updated": "2026-08-28T17:23:05.252Z",
     "original_repository_info": {
       "archived": false,
       "id": 123825556,

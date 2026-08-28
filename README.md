@@ -52,7 +52,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [Products.EasyNewsletter](https://github.com/collective/Products.EasyNewsletter) ⭐ 29 | 🐛 25 | 🌐 Python | 📅 2026-08-06 - Powerful newsletter/mailing product for Plone.
 * [collective.documentviewer](https://github.com/collective/collective.documentviewer) ⭐ 20 | 🐛 21 | 🌐 Python | 📅 2025-09-04 - Very nice document viewer that integrates DocumentCloud viewer and PDF processing into Plone.
-* [collective.documentgenerator](https://github.com/collective/collective.documentgenerator) ⭐ 16 | 🐛 10 | 🌐 Python | 📅 2026-08-26 - Generate Documents (.odt, .pdf, .doc) from content based on appy framework (<https://appyframe.work/>) and OpenOffice/LibreOffice.
+* [collective.documentgenerator](https://github.com/collective/collective.documentgenerator) ⭐ 16 | 🐛 11 | 🌐 Python | 📅 2026-08-28 - Generate Documents (.odt, .pdf, .doc) from content based on appy framework (<https://appyframe.work/>) and OpenOffice/LibreOffice.
 * [collective.lineage](https://github.com/collective/collective.lineage) ⭐ 12 | 🐛 12 | 🌐 Python | 📅 2026-08-19 - Subsites: Turns subfolders of a Plone site to appear as autonomous Plone sites. There is also a whole ecosystem off addons specific to subsites.
 * [collective.dexteritytextindexer](https://github.com/collective/collective.dexteritytextindexer) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2022-12-27 - Dynamic SearchableText index for dexterity content types. For Plone 6 this was merged into Plone core.
 * [collective.workspace](https://github.com/collective/collective.workspace) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2026-05-07 - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
@@ -95,7 +95,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-08-22 - Change, merge and delete keywords/tags/subjects).
 * [zopyx.typesense](https://github.com/zopyx/zopyx.typesense) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2023-12-08 - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
 * [collective.elastic.plone](https://github.com/collective/collective.elastic.plone) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2024-08-02 - Elasticsearch Integration for Plone content.
-* [collective.bookmarks](https://github.com/collective/collective.bookmarks) ⭐ 2 | 🐛 8 | 🌐 Python | 📅 2026-05-08 - Bookmarks/ favorites/ wish-list for Plone.
+* [collective.bookmarks](https://github.com/collective/collective.bookmarks) ⭐ 2 | 🐛 9 | 🌐 Python | 📅 2026-08-28 - Bookmarks/ favorites/ wish-list for Plone.
 
 ## Layout
 
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
