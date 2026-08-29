@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful newsletter/mailing product for Plone.",
+            "homepage": "https://pythonhosted.org/Products.EasyNewsletter/",
             "id": 2996893,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-06T10:11:45Z",
+            "open_issues": 25,
             "owner": "collective",
             "repo": "Products.EasyNewsletter",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "cms",
+              "hacktoberfest",
+              "mailing",
+              "newsletter",
+              "newsletter-management",
+              "plone",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://pypi.org/project/collective.documentviewer",
             "id": 4030512,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-04T13:45:49Z",
+            "open_issues": 21,
             "owner": "collective",
             "repo": "collective.documentviewer",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -42,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop document generation (.odt, .pdf, .doc, ...) based on appy framework (http://appyframework.org) and OpenOffice/LibreOffice",
+            "homepage": null,
             "id": 12105485,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-28T12:38:09Z",
+            "open_issues": 11,
             "owner": "collective",
             "repo": "collective.documentgenerator",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -58,12 +81,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turns subfolders of a Plone site to appear as autonomous Plone sites",
+            "homepage": "https://pypi.org/project/collective.lineage",
             "id": 3264054,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-19T12:59:48Z",
+            "open_issues": 12,
             "owner": "collective",
             "repo": "collective.lineage",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -74,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic SearchableText index for dexterity content types",
+            "homepage": "http://pypi.python.org/pypi/collective.dexteritytextindexer",
             "id": 1105965,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-27T15:35:41Z",
+            "open_issues": 3,
             "owner": "collective",
             "repo": "collective.dexteritytextindexer",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -90,12 +123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Restricted workspaces for Plone",
+            "homepage": null,
             "id": 10659236,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-07T20:40:03Z",
+            "open_issues": 5,
             "owner": "collective",
             "repo": "collective.workspace",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -106,12 +144,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creates Plone content objects from EasyForm submissions.",
+            "homepage": "https://pypi.org/project/collective.easyformplugin.createdx/",
             "id": 198772944,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2022-01-18T16:28:53Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.easyformplugin.createdx",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "easyform",
+              "plone"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -122,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pdf.js integration for Plone",
+            "homepage": null,
             "id": 2705875,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-07-26T07:49:15Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.pdfjs",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -138,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MailChimp integration for Plone.",
+            "homepage": null,
             "id": 6230307,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-15T16:34:00Z",
+            "open_issues": 7,
             "owner": "collective",
             "repo": "collective.mailchimp",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -154,12 +210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative tooltips by glossary",
+            "homepage": null,
             "id": 34862359,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-27T11:33:40Z",
+            "open_issues": 21,
             "owner": "collective",
             "repo": "collective.glossary",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -170,12 +231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Traverse to first item in folder",
+            "homepage": "https://pypi.python.org/pypi/collective.folderishtraverse",
             "id": 919797,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-12-08T22:53:07Z",
+            "open_issues": 2,
             "owner": "collective",
             "repo": "collective.folderishtraverse",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -186,12 +252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "enables dexterity content items to be used as users and groups in Plone sites",
+            "homepage": null,
             "id": 5779821,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-07T06:32:55Z",
+            "open_issues": 9,
             "owner": "collective",
             "repo": "dexterity.membrane",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -202,12 +273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides generic PDF export functionality for Plone content.",
+            "homepage": null,
             "id": 385583600,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-07-21T20:12:44Z",
+            "open_issues": 1,
             "owner": "plone",
             "repo": "plone.pdfexport",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -218,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides folderish types as a replacement for some ATContentTypes",
+            "homepage": null,
             "id": 919796,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-15T00:20:28Z",
+            "open_issues": 6,
             "owner": "collective",
             "repo": "collective.folderishtypes",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -234,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dexterity based behaviors for geotagging.",
+            "homepage": null,
             "id": 4016089,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-25T06:59:32Z",
+            "open_issues": 3,
             "owner": "collective",
             "repo": "collective.geolocationbehavior",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -250,12 +336,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Person content type for Plone.",
+            "homepage": null,
             "id": 11444734,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-20T09:36:39Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.person",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "plone",
+              "plone-addon",
+              "plone6"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -266,12 +361,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides a functionality to ask users for consent to different topics, before they can continue.",
+            "homepage": null,
             "id": 158715723,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2023-01-19T14:44:27Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.consent",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -282,12 +384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A content type that mirrors the content of any other container.",
+            "homepage": null,
             "id": 296891330,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2021-03-03T14:05:07Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.mirror",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -298,12 +405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proxy for remote content",
+            "homepage": "https://pypi.org/project/collective.remoteproxy/",
             "id": 83465006,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-02-05T16:21:08Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.remoteproxy",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -314,12 +426,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample content for Plone sites",
+            "homepage": null,
             "id": 3280790,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-24T14:59:46Z",
+            "open_issues": 3,
             "owner": "zopyx",
             "repo": "zopyx.ipsumplone",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -330,12 +447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allows alternative ordering on plone folders.",
+            "homepage": "http://pypi.python.org/pypi/collective.folderorder",
             "id": 2370516,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-12T15:54:41Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.folderorder",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -346,12 +468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "collective.embeddedpage allows to embed remote HTML pages in Plone.",
+            "homepage": null,
             "id": 155700119,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-03T20:35:14Z",
+            "open_issues": 2,
             "owner": "collective",
             "repo": "collective.embeddedpage",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -362,12 +489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create an dexterity item immediatly and skip add form",
+            "homepage": "https://pypi.org/project/collective.immediatecreate/",
             "id": 138203600,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-30T08:19:02Z",
+            "open_issues": 3,
             "owner": "collective",
             "repo": "collective.immediatecreate",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -378,12 +510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tracking user views on content items marked as must-read",
+            "homepage": null,
             "id": 73805139,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-07T20:40:17Z",
+            "open_issues": 6,
             "owner": "collective",
             "repo": "collective.mustread",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -394,12 +531,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 99034437,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2021-12-21T15:16:20Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.restrictportlets",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -416,12 +558,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collabora Online integration for Plone",
+            "homepage": null,
             "id": 877827968,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-13T09:42:58Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "collective.collabora",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -432,12 +579,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides pervasive, generic and extensible BBCode markup integration for Plone.",
+            "homepage": null,
             "id": 341179112,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-07T17:57:37Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "collective.bbcodesnippets",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -448,12 +600,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Formatable description field for Plone",
+            "homepage": "https://pypi.org/project/collective.richdescription/",
             "id": 966698,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-28T07:00:10Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.richdescription",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -464,12 +621,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 468074594,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2022-03-09T20:05:23Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.a11ycheck",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -486,12 +648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solr search engine integration for Plone",
+            "homepage": "https://pypi.org/project/collective.solr/",
             "id": 5714637,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-09T16:49:02Z",
+            "open_issues": 59,
             "owner": "collective",
             "repo": "collective.solr",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -502,12 +669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plone ElasticSearch Integration ",
+            "homepage": "https://pypi.python.org/pypi/collective.elasticsearch/",
             "id": 6598917,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-19T14:42:06Z",
+            "open_issues": 34,
             "owner": "collective",
             "repo": "collective.elasticsearch",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -518,12 +690,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create, edit and use hierarchical taxonomies in Plone!",
+            "homepage": "https://pypi.org/project/collective.taxonomy/",
             "id": 6044962,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-22T22:10:47Z",
+            "open_issues": 28,
             "owner": "collective",
             "repo": "collective.taxonomy",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "hacktoberfest",
+              "plone",
+              "plone-addon",
+              "python",
+              "taxonomy"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -534,12 +717,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plone product base on like and dislike thumbs ",
+            "homepage": null,
             "id": 1363684,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-14T23:12:52Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "cioppino.twothumbs",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -550,12 +738,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plone addon for filtering collection results",
+            "homepage": "https://pypi.org/project/collective.collectionfilter/",
             "id": 75113689,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T14:53:28Z",
+            "open_issues": 29,
             "owner": "collective",
             "repo": "collective.collectionfilter",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -566,12 +761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 8639298,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-23T09:29:26Z",
+            "open_issues": 7,
             "owner": "collective",
             "repo": "collective.searchandreplace",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -582,12 +782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a clone in the collective, main repository is at eea. Branching and creatings PRs here is fine.",
+            "homepage": null,
             "id": 5527226,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-23T10:27:30Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "eea.facetednavigation",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -598,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Change, merge and delete keywords (AKA tags or subjects) in Plone.",
+            "homepage": "https://pypi.org/project/Products.PloneKeywordManager/",
             "id": 4799743,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-22T22:06:53Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "Products.PloneKeywordManager",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -614,12 +824,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typesense integration for Plone 6",
+            "homepage": null,
             "id": 434925754,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2023-12-08T08:52:27Z",
+            "open_issues": 1,
             "owner": "zopyx",
             "repo": "zopyx.typesense",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "fulltext-search",
+              "plone",
+              "typesense"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -630,12 +849,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plone Search Integration:  Addon to index content in Open-/ElasticSearch",
+            "homepage": null,
             "id": 206311432,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-08-02T16:42:33Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "collective.elastic.plone",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cms",
+              "elasticsearch",
+              "opensearch",
+              "plone"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -646,12 +875,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bookmarks/ favorites/ wish-list for Plone",
+            "homepage": "https://pypi.org/project/collective.bookmarks",
             "id": 254036748,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T14:55:28Z",
+            "open_issues": 9,
             "owner": "collective",
             "repo": "collective.bookmarks",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -668,12 +902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sane, working, editor-friendly way of creating front pages and other composite pages. Working now, for mere mortals.",
+            "homepage": null,
             "id": 2592312,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-22T19:40:14Z",
+            "open_issues": 78,
             "owner": "collective",
             "repo": "collective.cover",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -684,12 +923,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plone Mosaic main repository",
+            "homepage": "https://pypi.python.org/pypi/plone.app.mosaic",
             "id": 20396366,
             "language": "JavaScript",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-26T09:12:20Z",
+            "open_issues": 99,
             "owner": "plone",
             "repo": "plone.app.mosaic",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -700,12 +946,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 432243270,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T15:39:28Z",
+            "open_issues": 5,
             "owner": "collective",
             "repo": "collective.contentsections",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -716,12 +967,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds a dexterity behavior and a browser template to manipulate folder and collection listings by adding Bootstrap 5 CSS classes and `pat-masonry` from patternslib.",
+            "homepage": null,
             "id": 656139604,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-25T06:50:32Z",
+            "open_issues": 2,
             "owner": "collective",
             "repo": "collective.gridlisting",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -738,12 +994,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plone Standard tiles (reflecting viewlets et al) to be used with Plone Mosaic",
+            "homepage": null,
             "id": 2414896,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T09:08:18Z",
+            "open_issues": 14,
             "owner": "plone",
             "repo": "plone.app.standardtiles",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -754,12 +1015,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tile that shows a set of collection results with a customizable layout",
+            "homepage": null,
             "id": 66001586,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-25T21:32:58Z",
+            "open_issues": 3,
             "owner": "collective",
             "repo": "collective.tiles.collection",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -770,12 +1036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 313572271,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-21T07:35:11Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.tiles.carousel",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -786,12 +1057,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tile that shows html text, allowing to add some defined styles, class and other option",
+            "homepage": null,
             "id": 66091458,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-07T20:42:00Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.tiles.advancedstatic",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -808,12 +1084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dexterity venue type for use with events.",
+            "homepage": "https://pypi.org/project/collective.venue/",
             "id": 9935480,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-01T02:17:57Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "collective.venue",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -824,12 +1105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add a behavior to collective.easyform to manage registration forms.",
+            "homepage": null,
             "id": 169256322,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-19T11:15:38Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.easyformplugin.registration",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -840,12 +1126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python 3 and Plone 5 Integration for fullcalender",
+            "homepage": null,
             "id": 322340627,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-12-21T11:45:42Z",
+            "open_issues": 3,
             "owner": "collective",
             "repo": "collective.fullcalendar",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -862,12 +1153,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forms for Plone",
+            "homepage": "https://pypi.org/project/collective.easyform",
             "id": 49944193,
             "language": "Python",
-            "last_commit": "2026-08-18T12:08:39Z",
+            "license": null,
+            "last_commit": "2026-08-28T22:52:27Z",
+            "open_issues": 110,
             "owner": "collective",
             "repo": "collective.easyform",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -878,12 +1176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Datagrid Field for z3c.forms",
+            "homepage": "https://pypi.org/project/collective.z3cform.datagridfield/",
             "id": 2419273,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-18T12:08:51Z",
+            "open_issues": 21,
             "owner": "collective",
             "repo": "collective.z3cform.datagridfield",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -894,12 +1197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 41308862,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-18T12:09:12Z",
+            "open_issues": 12,
             "owner": "collective",
             "repo": "collective.honeypot",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -910,12 +1218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "collective.z3cform.norobots provides a \"human\" captcha widget based on a list of questions/answers.",
+            "homepage": null,
             "id": 4650144,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-05T08:24:04Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "collective.z3cform.norobots",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -926,12 +1239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible form to edit selected fields of a content type",
+            "homepage": null,
             "id": 105370384,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2023-11-02T21:26:49Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.fieldedit",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -942,12 +1260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 373844498,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-17T14:05:06Z",
+            "open_issues": 1,
             "owner": "plone",
             "repo": "plone.formwidget.hcaptcha",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -958,12 +1281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zope2 Integration for YAFOWIL - Yet Another Form Widget Library (Python, Web)",
+            "homepage": "http://docs.yafowil.info/integrations.html#zope-2-plone-based-usage",
             "id": 842184,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-31T09:42:55Z",
+            "open_issues": 13,
             "owner": "bluedynamics",
             "repo": "yafowil.plone",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -980,12 +1308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Indexes optimized to query multilingual content made with plone.app.multilingual",
+            "homepage": "https://pypi.org/project/plone.app.multilingualindexes/",
             "id": 68533940,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-22T15:47:19Z",
+            "open_issues": 0,
             "owner": "plone",
             "repo": "plone.app.multilingualindexes",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -996,12 +1329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This add-on provides support for content in multiple languages (multilingual).",
+            "homepage": null,
             "id": 5934920,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-02T07:35:24Z",
+            "open_issues": 2,
             "owner": "collective",
             "repo": "collective.multilingual",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1012,12 +1350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multilingual Tags for Plone",
+            "homepage": null,
             "id": 64769560,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-14T07:53:15Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.linguatags",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1028,12 +1371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 244333502,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-25T21:54:12Z",
+            "open_issues": 3,
             "owner": "codesyntax",
             "repo": "cs.adminlanguage",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -1050,12 +1398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 15290392,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-05-22T12:30:03Z",
+            "open_issues": 35,
             "owner": "collective",
             "repo": "wildcard.media",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1066,12 +1419,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crops Images in Plone manually using cropper JS library",
+            "homepage": "https://pypi.python.org/pypi/plone.app.imagecropping",
             "id": 6203014,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-09T19:20:30Z",
+            "open_issues": 16,
             "owner": "collective",
             "repo": "plone.app.imagecropping",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1082,12 +1442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integration of lazysizes, a lightweight lazy loader, into Plone.",
+            "homepage": "https://pypi.org/project/collective.lazysizes",
             "id": 49085734,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-01T00:02:57Z",
+            "open_issues": 8,
             "owner": "collective",
             "repo": "collective.lazysizes",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1098,12 +1463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Photo gallery view for Plone CMS.",
+            "homepage": null,
             "id": 271567633,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-02-28T06:46:09Z",
+            "open_issues": 19,
             "owner": "plone",
             "repo": "plone.gallery",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1114,12 +1484,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "related image/attachment behavior management",
+            "homepage": null,
             "id": 223977154,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-20T20:13:19Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "collective.behavior.relatedmedia",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1130,12 +1507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add banners and create slider/carousel from banners",
+            "homepage": null,
             "id": 24940728,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-13T08:34:00Z",
+            "open_issues": 11,
             "owner": "collective",
             "repo": "collective.behavior.banner",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1146,12 +1528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plone addon that adds a gallery view with a carousel made with slick.",
+            "homepage": null,
             "id": 105035553,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-03-26T15:04:36Z",
+            "open_issues": 15,
             "owner": "RedTurtle",
             "repo": "redturtle.gallery",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1162,12 +1549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic scaling of (too large) images in Plone sites",
+            "homepage": null,
             "id": 54980650,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-01T09:00:53Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.autoscaling",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1178,12 +1570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 996183064,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-03T18:05:35Z",
+            "open_issues": 0,
             "owner": "codesyntax",
             "repo": "cs_flickrgallery",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1194,12 +1591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of https://wavesurfer-js.org audio player for Plone",
+            "homepage": null,
             "id": 131017205,
             "language": "JavaScript",
+            "license": "GPL-2.0",
             "last_commit": "2024-07-15T16:29:02Z",
+            "open_issues": 2,
             "owner": "collective",
             "repo": "collective.wavesurfer",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -1216,12 +1618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graceful E-mail Obfuscation for Plone",
+            "homepage": null,
             "id": 24756962,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-02T21:45:55Z",
+            "open_issues": 2,
             "owner": "collective",
             "repo": "collective.geotransform",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1232,12 +1639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Disallow access to acquired content outside the current path",
+            "homepage": "https://pypi.python.org/pypi/collective.explicitacquisition",
             "id": 24440953,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-23T10:46:05Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.explicitacquisition",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1248,12 +1660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protect Plone sites against site administrators.",
+            "homepage": null,
             "id": 1253261682,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-29T13:58:13Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.lockdown",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1264,12 +1681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package protects the default contact form of Plone which is generally accessible via /contact-form. It provides a checkbox in the controlpanel to disable it globally and adds a (H/Re)captcha field depending on your installation.",
+            "homepage": null,
             "id": 793490103,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-17T09:06:40Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.contactformprotection",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -1286,12 +1708,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SEO fields as a behavior for Plone 5.1+",
+            "homepage": null,
             "id": 152760391,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-25T06:51:16Z",
+            "open_issues": 5,
             "owner": "collective",
             "repo": "collective.behavior.seo",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1302,12 +1729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Tag Manager Intergation",
+            "homepage": null,
             "id": 123762383,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-22T08:42:15Z",
+            "open_issues": 0,
             "owner": "bluedynamics",
             "repo": "bda.plone.gtm",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1318,12 +1750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SEO enhancements for the Plone Content Management System (Volto only)",
+            "homepage": null,
             "id": 140301998,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-07T08:39:32Z",
+            "open_issues": 7,
             "owner": "kitconcept",
             "repo": "kitconcept.seo",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1334,12 +1771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 292891163,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-07T20:43:37Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.splitsitemap",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -1356,12 +1798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zope (and Plone) PAS Plugin providing users and groups from LDAP directory",
+            "homepage": "http://pypi.python.org/pypi/pas.plugins.ldap",
             "id": 841395,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T17:25:55Z",
+            "open_issues": 14,
             "owner": "collective",
             "repo": "pas.plugins.ldap",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1372,12 +1819,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone",
+            "homepage": "https://pypi.org/project/pas.plugins.authomatic",
             "id": 44431407,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-14T14:49:04Z",
+            "open_issues": 16,
             "owner": "collective",
             "repo": "pas.plugins.authomatic",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "authentication",
+              "oauth",
+              "oauth2",
+              "openid",
+              "plone",
+              "plone-addon"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1388,12 +1847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allow administrator to impersonate another user.",
+            "homepage": "https://pypi.org/project/collective.impersonate/",
             "id": 84196371,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-25T21:27:34Z",
+            "open_issues": 2,
             "owner": "collective",
             "repo": "collective.impersonate",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1404,12 +1868,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PAS plugin for OpenID Connect authentication",
+            "homepage": null,
             "id": 342967413,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T10:53:40Z",
+            "open_issues": 19,
             "owner": "collective",
             "repo": "pas.plugins.oidc",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "hacktoberfest",
+              "oidc-client",
+              "plone",
+              "plone-addon"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1420,12 +1894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 4142796,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-07T20:38:28Z",
+            "open_issues": 5,
             "owner": "collective",
             "repo": "iw.rejectanonymous",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1436,12 +1915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PAS plugin for authentication based on request headers",
+            "homepage": "https://pypi.org/project/pas.plugins.headers/",
             "id": 143214302,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-17T09:06:26Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "pas.plugins.headers",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1452,12 +1936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 723115837,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-17T17:03:38Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "wcs.samlauth",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1468,12 +1957,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emulate Active Directory password complexity requirements.",
+            "homepage": null,
             "id": 12199746,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-16T11:01:19Z",
+            "open_issues": 10,
             "owner": "collective",
             "repo": "collective.pwexpiry",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1484,12 +1978,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1078766276,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-07T20:47:40Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "pas.plugins.eea",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -1506,12 +2005,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export and import content and other data from and to Plone",
+            "homepage": null,
             "id": 338090395,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-30T11:00:43Z",
+            "open_issues": 47,
             "owner": "collective",
             "repo": "collective.exportimport",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "exporting",
+              "hacktoberfest",
+              "importing",
+              "migrations",
+              "plone",
+              "python",
+              "zope"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1522,12 +2034,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some helpers and examples to use during migrations",
+            "homepage": null,
             "id": 216183685,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2023-06-05T04:54:24Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.migrationhelpers",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1538,12 +2055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provide json representation for content in Plone",
+            "homepage": "https://pypi.python.org/pypi/collective.jsonify",
             "id": 1424742,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-10T14:59:50Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "collective.jsonify",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1554,12 +2076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A configurable pipeline, aimed at transforming content for import and export",
+            "homepage": null,
             "id": 9281266,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-24T13:27:43Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "collective.transmogrifier",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -1576,12 +2103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Theme for Plone",
+            "homepage": null,
             "id": 156555789,
             "language": "CSS",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-23T12:57:16Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "plonetheme.tokyo",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1592,12 +2124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sidebar for Plone to consolidate toolbar and navigation",
+            "homepage": null,
             "id": 141549035,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-10T02:07:25Z",
+            "open_issues": 21,
             "owner": "collective",
             "repo": "collective.sidebar",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1608,12 +2145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A customizable editable menu",
+            "homepage": null,
             "id": 42229178,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-23T07:06:47Z",
+            "open_issues": 32,
             "owner": "RedTurtle",
             "repo": "collective.editablemenu",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1624,12 +2166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 318213815,
             "language": "CSS",
+            "license": "GPL-2.0",
             "last_commit": "2021-10-31T19:49:56Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "plonetheme.grueezibuesi",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1640,12 +2187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add local styles to subsections in your Plone site.",
+            "homepage": null,
             "id": 20293548,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-07T20:56:12Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.localstyles",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -1662,12 +2214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configuration and code reload for Zope 2 and Plone without server restarts.",
+            "homepage": null,
             "id": 1563066,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-24T07:24:26Z",
+            "open_issues": 7,
             "owner": "plone",
             "repo": "plone.reload",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1678,12 +2235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debug toolbar for Plone",
+            "homepage": null,
             "id": 2729251,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-25T09:29:02Z",
+            "open_issues": 6,
             "owner": "plone",
             "repo": "plone.app.debugtoolbar",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1694,12 +2256,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helpers to manage, create, export and rebuild relations in Plone 5.x. For Plone 6 this was merged into Plone core.  ",
+            "homepage": null,
             "id": 251539576,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2023-11-01T16:37:55Z",
+            "open_issues": 5,
             "owner": "collective",
             "repo": "collective.relationhelpers",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "hacktoberfest",
+              "plone"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1710,12 +2280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enable various PDB debugging when Zope debug-mode=on",
+            "homepage": null,
             "id": 9357035,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-22T22:07:06Z",
+            "open_issues": 3,
             "owner": "collective",
             "repo": "Products.PDBDebugMode",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1726,12 +2301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A monkey patch to send MailHost messages to standard out",
+            "homepage": "https://pypi.org/project/Products.PrintingMailHost/",
             "id": 13747458,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-25T06:47:26Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "Products.PrintingMailHost",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1742,12 +2322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gracefully handle missing BLOBs in Plone",
+            "homepage": "https://pypi.org/project/experimental.gracefulblobmissing/",
             "id": 7825494,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-07T20:39:26Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "experimental.gracefulblobmissing",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1758,12 +2343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 585668899,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-29T12:25:41Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.debugtools",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1774,12 +2364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A great companion for keeping track of patched or overridden files.",
+            "homepage": null,
             "id": 422172986,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2021-11-08T16:20:58Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.patchwatcher",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1790,12 +2385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An addon for Plone that allow you debug your code using the icecream package",
+            "homepage": null,
             "id": 723056854,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-27T09:00:58Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.icecream",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1806,12 +2406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An addon for Plone that does allow you to use the [pdbpp](https://github.com/pdbpp/pdbpp) package",
+            "homepage": null,
             "id": 724027871,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T12:09:06Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.pdbpp",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -1828,12 +2433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This product allows to override the values stored in the portal registry and property manager object (i.e. a PAS plugin)",
+            "homepage": null,
             "id": 561959586,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-23T19:41:37Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.regenv",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1844,12 +2454,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sentry integration with Zope (4)/Plone (5)",
+            "homepage": "https://pypi.org/project/collective.sentry/",
             "id": 202495001,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-22T22:10:58Z",
+            "open_issues": 8,
             "owner": "collective",
             "repo": "collective.sentry",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "monitoring",
+              "plone",
+              "python",
+              "sentry"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1860,12 +2480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 12104870,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-12T14:36:57Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.purgebyid",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1876,12 +2501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 52788514,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-25T07:33:18Z",
+            "open_issues": 3,
             "owner": "collective",
             "repo": "collective.revisionmanager",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1892,12 +2522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keep track of different events and write them down to an audit log.",
+            "homepage": "https://pypi.org/project/collective.fingerpointing/",
             "id": 34258514,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-18T09:41:51Z",
+            "open_issues": 22,
             "owner": "collective",
             "repo": "collective.fingerpointing",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1908,12 +2543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bin/backup script: sensible defaults around bin/repozo",
+            "homepage": "https://pypi.org/project/collective.recipe.backup/",
             "id": 5325492,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-25T03:34:24Z",
+            "open_issues": 3,
             "owner": "collective",
             "repo": "collective.recipe.backup",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1924,12 +2564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zope 2 request monitoring",
+            "homepage": null,
             "id": 6047090,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-16T10:50:17Z",
+            "open_issues": 3,
             "owner": "collective",
             "repo": "haufe.requestmonitoring",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1940,12 +2585,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 4157269,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-30T19:04:18Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.catalogcleanup",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1956,12 +2606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Plone addon which enables any Plone site to play in the IFTTT (pronounced /ɪft/) ecosystem by allowing you to create IFTTT applets.",
+            "homepage": null,
             "id": 133570887,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2019-10-27T13:30:08Z",
+            "open_issues": 3,
             "owner": "collective",
             "repo": "collective.ifttt",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1972,12 +2627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1000964500,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-07T20:46:47Z",
+            "open_issues": 0,
             "owner": "collective",
             "repo": "collective.ftw.upgrade",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         },
@@ -1988,12 +2648,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Override plone.registry values from environment variables.",
+            "homepage": "https://pypi.org/project/plone.registryfromenviron/",
             "id": 1168466110,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-20T22:28:48Z",
+            "open_issues": 2,
             "owner": "bluedynamics",
             "repo": "plone-registryfromenviron",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cloudnative",
+              "plone",
+              "registry"
+            ]
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
         }
@@ -2002,15 +2671,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:23:05.252Z",
+    "last_updated": "2026-08-29T05:05:32.153Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Add-ons and resources for the CMS Plone",
+      "homepage": null,
       "id": 123825556,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-05T05:41:53Z",
+      "open_issues": 0,
       "owner": "collective",
       "repo": "awesome-plone",
-      "stars": 77
+      "stars": 77,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cms",
+        "plone",
+        "python",
+        "zope"
+      ]
     },
     "original_repository_sha": "2a8601ac9e3a78326e5f9a7991ba80de139d0e10",
     "enhanced_repository": "enhansome/enhansome-plone",
