@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:37:05.818Z",
+    "last_updated": "2026-08-30T10:26:57.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
@@ -2683,7 +2683,7 @@
       "open_issues": 0,
       "owner": "collective",
       "repo": "awesome-plone",
-      "stars": 77,
+      "stars": 78,
       "topics": [
         "awesome",
         "awesome-list",
