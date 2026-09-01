@@ -410,8 +410,8 @@
             "id": 83465006,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-30T15:12:25Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-01T00:00:00Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.remoteproxy",
             "stars": 1,
@@ -951,7 +951,7 @@
             "id": 432243270,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-31T10:59:16Z",
+            "last_commit": "2026-09-01T08:57:53Z",
             "open_issues": 4,
             "owner": "collective",
             "repo": "collective.contentsections",
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:32:58.138Z",
+    "last_updated": "2026-09-01T10:00:02.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
