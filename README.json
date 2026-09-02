@@ -410,7 +410,7 @@
             "id": 83465006,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-01T00:00:00Z",
+            "last_commit": "2026-09-01T21:27:17Z",
             "open_issues": 1,
             "owner": "collective",
             "repo": "collective.remoteproxy",
@@ -1110,7 +1110,7 @@
             "id": 169256322,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-19T11:15:38Z",
+            "last_commit": "2026-09-01T21:56:22Z",
             "open_issues": 1,
             "owner": "collective",
             "repo": "collective.easyformplugin.registration",
@@ -2548,8 +2548,8 @@
             "id": 5325492,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-07-25T03:34:24Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-01T22:26:35Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "collective.recipe.backup",
             "stars": 5,
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T10:00:02.495Z",
+    "last_updated": "2026-09-02T09:31:45.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
