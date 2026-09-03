@@ -103,7 +103,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [collective.cover](https://github.com/collective/collective.cover) ⭐ 48 | 🐛 78 | 🌐 Python | 📅 2025-04-22 - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
 * [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 99 | 🌐 JavaScript | 📅 2026-08-26 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
-* [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 4 | 🌐 Python | 📅 2026-09-01 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
+* [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 4 | 🌐 Python | 📅 2026-09-03 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 * [collective.gridlisting](https://github.com/collective/collective.gridlisting) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-07-25 - Adds a dexterity behavior and a browser template to manipulate folder and collection listings by adding Bootstrap 5 CSS classes and `pat-masonry` from patternslib.
 
 ## Tiles
@@ -152,7 +152,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [plone.app.imagecropping](https://github.com/collective/plone.app.imagecropping) ⭐ 9 | 🐛 16 | 🌐 Python | 📅 2026-07-09 - Crops Images in Plone manually using cropper JS library.
 * [collective.lazysizes](https://github.com/collective/collective.lazysizes) ⭐ 6 | 🐛 8 | 🌐 Python | 📅 2020-05-01 - Integration of lazysizes, a lightweight lazy loader, into Plone.
 * [plone.gallery](https://github.com/plone/plone.gallery) ⭐ 5 | 🐛 19 | 🌐 Python | 📅 2026-02-28 - Photo gallery view for Plone.
-* [collective.behavior.relatedmedia](https://github.com/collective/collective.behavior.relatedmedia) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-07-20 - A behavior to create/upload/manage media relations (Image, File) for content types.
+* [collective.behavior.relatedmedia](https://github.com/collective/collective.behavior.relatedmedia) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-09-03 - A behavior to create/upload/manage media relations (Image, File) for content types.
 * [collective.behavior.banner](https://github.com/collective/collective.behavior.banner) ⭐ 3 | 🐛 11 | 🌐 Python | 📅 2026-04-13 - A behavior to create banners and sliders from banners.
 * [redturtle.gallery](https://github.com/RedTurtle/redturtle.gallery) ⭐ 2 | 🐛 15 | 🌐 Python | 📅 2026-03-26 - Adds a gallery view with a carousel made with slick.
 * [collective.autoscaling](https://github.com/collective/collective.autoscaling) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2024-08-01 - Automatic scaling of large images. Useful to reduce your database size when editors upload too large images.
@@ -230,7 +230,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [collective.regenv](https://github.com/collective/collective.regenv) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-02-23 - Override registry settings using environment variables stored in a file.
 * [collective.sentry](https://github.com/collective/collective.sentry) ⭐ 7 | 🐛 8 | 🌐 Python | 📅 2026-08-22 - Sentry integration to aggregate errors and help finding their causes.
-* [collective.purgebyid](https://github.com/collective/collective.purgebyid) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-12-12 - Use tag-based cache invalidation in Plone (e.g. with Varnish's xkey module).
+* [collective.purgebyid](https://github.com/collective/collective.purgebyid) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-09-02 - Use tag-based cache invalidation in Plone (e.g. with Varnish's xkey module).
 * [collective.revisionmanager](https://github.com/collective/collective.revisionmanager) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-07-25 - Manage Products.CMFEditions histories that can bloat your database.
 * [collective.fingerpointing](https://github.com/collective/collective.fingerpointing) ⭐ 5 | 🐛 22 | 🌐 Python | 📅 2025-09-18 - Keeps track of different events and write them down to an audit log.
 * [collective.recipe.backup](https://github.com/collective/collective.recipe.backup) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2026-09-01 - Powerful and flexible backup/restore solution for Plone.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
