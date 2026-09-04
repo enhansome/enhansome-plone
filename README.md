@@ -91,7 +91,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [cioppino.twothumbs](https://github.com/collective/cioppino.twothumbs) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2023-02-14 - Rate content using up- and down-thumbs.
 * [collective.collectionfilter](https://github.com/collective/collective.collectionfilter) ⭐ 9 | 🐛 29 | 🌐 Python | 📅 2026-08-21 - Faceted navigation filter for collection or contentlisting tiles.
 * [collective.searchandreplace](https://github.com/collective/collective.searchandreplace) ⭐ 5 | 🐛 7 | 🌐 Python | 📅 2025-09-23 - Find and replace text in Plone content objects.
-* [eea.facetednavigation](https://github.com/collective/eea.facetednavigation) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-04-23 - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
+* [eea.facetednavigation](https://github.com/collective/eea.facetednavigation) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-09-03 - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
 * [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-08-22 - Change, merge and delete keywords/tags/subjects).
 * [zopyx.typesense](https://github.com/zopyx/zopyx.typesense) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2023-12-08 - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
 * [collective.elastic.plone](https://github.com/collective/collective.elastic.plone) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2024-08-02 - Elasticsearch Integration for Plone content.
@@ -152,7 +152,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [plone.app.imagecropping](https://github.com/collective/plone.app.imagecropping) ⭐ 9 | 🐛 16 | 🌐 Python | 📅 2026-07-09 - Crops Images in Plone manually using cropper JS library.
 * [collective.lazysizes](https://github.com/collective/collective.lazysizes) ⭐ 6 | 🐛 8 | 🌐 Python | 📅 2020-05-01 - Integration of lazysizes, a lightweight lazy loader, into Plone.
 * [plone.gallery](https://github.com/plone/plone.gallery) ⭐ 5 | 🐛 19 | 🌐 Python | 📅 2026-02-28 - Photo gallery view for Plone.
-* [collective.behavior.relatedmedia](https://github.com/collective/collective.behavior.relatedmedia) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-09-03 - A behavior to create/upload/manage media relations (Image, File) for content types.
+* [collective.behavior.relatedmedia](https://github.com/collective/collective.behavior.relatedmedia) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-09-03 - A behavior to create/upload/manage media relations (Image, File) for content types.
 * [collective.behavior.banner](https://github.com/collective/collective.behavior.banner) ⭐ 3 | 🐛 11 | 🌐 Python | 📅 2026-04-13 - A behavior to create banners and sliders from banners.
 * [redturtle.gallery](https://github.com/RedTurtle/redturtle.gallery) ⭐ 2 | 🐛 15 | 🌐 Python | 📅 2026-03-26 - Adds a gallery view with a carousel made with slick.
 * [collective.autoscaling](https://github.com/collective/collective.autoscaling) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2024-08-01 - Automatic scaling of large images. Useful to reduce your database size when editors upload too large images.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

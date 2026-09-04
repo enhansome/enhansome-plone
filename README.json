@@ -787,7 +787,7 @@
             "id": 5527226,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-04-23T10:27:30Z",
+            "last_commit": "2026-09-03T16:31:20Z",
             "open_issues": 1,
             "owner": "collective",
             "repo": "eea.facetednavigation",
@@ -1489,8 +1489,8 @@
             "id": 223977154,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-03T07:46:00Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-03T09:51:49Z",
+            "open_issues": 2,
             "owner": "collective",
             "repo": "collective.behavior.relatedmedia",
             "stars": 4,
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T09:40:47.942Z",
+    "last_updated": "2026-09-04T09:33:12.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
