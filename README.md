@@ -213,7 +213,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that help developing Plone*
 
-* [plone.reload](https://github.com/plone/plone.reload) ⭐ 12 | 🐛 7 | 🌐 Python | 📅 2026-08-24 - Code and configuration reload without server restarts.
+* [plone.reload](https://github.com/plone/plone.reload) ⭐ 12 | 🐛 8 | 🌐 Python | 📅 2026-09-13 - Code and configuration reload without server restarts.
 * [plone.app.debugtoolbar](https://github.com/plone/plone.app.debugtoolbar) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2026-08-25 - A toolbar that shows a wealth of debug information about a running Plone site and the content you are inspecting. Also includes a interactive python-shell, a TALES-expression evaluator and and code-reload.
 * [collective.relationhelpers](https://github.com/collective/collective.relationhelpers) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2023-11-01 - Helpers to manage, create, export and rebuild relations in Plone 5.x. For Plone 6 this was merged into Plone core.
 * [Products.PDBDebugMode](https://github.com/collective/Products.PDBDebugMode) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-08-22 - Post-mortem debugging: open a pdb session whenever an exception occurs so you you can find out what is going wrong. Plus: By adding /pdb to a url you end up you in a pdb session on the current context. A killer tool for developers.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

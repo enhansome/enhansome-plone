@@ -2219,8 +2219,8 @@
             "id": 1563066,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-24T07:24:26Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-13T05:02:34Z",
+            "open_issues": 8,
             "owner": "plone",
             "repo": "plone.reload",
             "stars": 12,
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:13:54.729Z",
+    "last_updated": "2026-09-13T10:10:29.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
