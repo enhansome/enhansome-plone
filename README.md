@@ -127,7 +127,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that allow generating and using forms.*
 
-* [collective.easyform](https://github.com/collective/collective.easyform) ⭐ 16 | 🐛 110 | 🌐 Python | 📅 2026-08-28 - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
+* [collective.easyform](https://github.com/collective/collective.easyform) ⭐ 16 | 🐛 110 | 🌐 Python | 📅 2026-09-13 - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
 * [collective.z3cform.datagridfield](https://github.com/collective/collective.z3cform.datagridfield) ⭐ 8 | 🐛 20 | 🌐 Python | 📅 2026-09-09 - A field with a datagrid (table), where each row is a sub form.
 * [collective.honeypot](https://github.com/collective/collective.honeypot) ⭐ 5 | 🐛 12 | 🌐 Python | 📅 2026-08-18 - Honeypot protection for forms.
 * [collective.z3cform.norobots](https://github.com/collective/collective.z3cform.norobots) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2025-09-05 - A "human" captcha widget based on a list of questions/answers.
@@ -164,7 +164,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.geotransform](https://github.com/collective/collective.geotransform) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2023-11-02 - Graceful E-mail Obfuscation for Plone.
 * [collective.explicitacquisition](https://github.com/collective/collective.explicitacquisition) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2021-03-23 - Disallow access to acquired content outside the current path.
 * [collective.lockdown](https://github.com/collective/collective.lockdown) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-29 - Protect Plone sites against site administrators from reconfiguring the site or making layout changes.
-* [collective.contactformprotection](https://github.com/collective/collective.contactformprotection) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - Disables the default `contact-info` form or protect it with `plone.formwidget.[h|re]captcha`.
+* [collective.contactformprotection](https://github.com/collective/collective.contactformprotection) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - Disables the default `contact-info` form or protect it with `plone.formwidget.[h|re]captcha`.
 
 ## SEO
 
@@ -184,7 +184,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.impersonate](https://github.com/collective/collective.impersonate) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-08-25 - Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.
 * [pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) ⭐ 6 | 🐛 17 | 🌐 Python | 📅 2026-09-08 - Login using OIDC providers.
 * [iw.rejectanonymous](https://github.com/collective/iw.rejectanonymous) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2026-05-07 - Reject unconditionnally anonymous users from a Plone site, without any change in your security policy matrix or workflows. The basic use case is an extranet, where all visitors must be authenticated.
-* [pas.plugins.headers](https://github.com/collective/pas.plugins.headers) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
+* [pas.plugins.headers](https://github.com/collective/pas.plugins.headers) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
 * [wcs.samlauth](https://github.com/collective/wcs.samlauth) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-12-17 - Login using SAML providers.
 * [collective.pwexpiry](https://github.com/collective/collective.pwexpiry) ⭐ 1 | 🐛 10 | 🌐 Python | 📅 2026-07-16 - Provideds methods for stronger user passwords in Plone and password attack protection.
 * [pas.plugins.eea](https://github.com/collective/pas.plugins.eea) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-07 - Provides user and group enumeration on top of pas.plugins.authomatic, with support for Microsoft Entra ID. Includes user and group synchronization.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
