@@ -127,9 +127,9 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that allow generating and using forms.*
 
-* [collective.easyform](https://github.com/collective/collective.easyform) ⭐ 16 | 🐛 110 | 🌐 Python | 📅 2026-09-13 - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
+* [collective.easyform](https://github.com/collective/collective.easyform) ⭐ 16 | 🐛 110 | 🌐 Python | 📅 2026-09-15 - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
 * [collective.z3cform.datagridfield](https://github.com/collective/collective.z3cform.datagridfield) ⭐ 8 | 🐛 20 | 🌐 Python | 📅 2026-09-09 - A field with a datagrid (table), where each row is a sub form.
-* [collective.honeypot](https://github.com/collective/collective.honeypot) ⭐ 5 | 🐛 12 | 🌐 Python | 📅 2026-08-18 - Honeypot protection for forms.
+* [collective.honeypot](https://github.com/collective/collective.honeypot) ⭐ 5 | 🐛 12 | 🌐 Python | 📅 2026-09-15 - Honeypot protection for forms.
 * [collective.z3cform.norobots](https://github.com/collective/collective.z3cform.norobots) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2025-09-05 - A "human" captcha widget based on a list of questions/answers.
 * [collective.fieldedit](https://github.com/collective/collective.fieldedit) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2023-11-02 - A flexible form to edit selected fields of a content type.
 * [plone.formwidgets.hcaptcha](https://github.com/plone/plone.formwidget.hcaptcha) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-06-17 - HCaptcha widget to protect Plone from bots, spam, and other forms of automated abuse.
@@ -213,7 +213,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that help developing Plone*
 
-* [plone.reload](https://github.com/plone/plone.reload) ⭐ 12 | 🐛 8 | 🌐 Python | 📅 2026-09-13 - Code and configuration reload without server restarts.
+* [plone.reload](https://github.com/plone/plone.reload) ⭐ 12 | 🐛 7 | 🌐 Python | 📅 2026-09-15 - Code and configuration reload without server restarts.
 * [plone.app.debugtoolbar](https://github.com/plone/plone.app.debugtoolbar) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2026-08-25 - A toolbar that shows a wealth of debug information about a running Plone site and the content you are inspecting. Also includes a interactive python-shell, a TALES-expression evaluator and and code-reload.
 * [collective.relationhelpers](https://github.com/collective/collective.relationhelpers) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2023-11-01 - Helpers to manage, create, export and rebuild relations in Plone 5.x. For Plone 6 this was merged into Plone core.
 * [Products.PDBDebugMode](https://github.com/collective/Products.PDBDebugMode) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-08-22 - Post-mortem debugging: open a pdb session whenever an exception occurs so you you can find out what is going wrong. Plus: By adding /pdb to a url you end up you in a pdb session on the current context. A killer tool for developers.
@@ -222,7 +222,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.debugtools](https://github.com/collective/collective.debugtools) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-29 - Add remote debugging via debugpy for debugpy-compatible clients like VSCode or PyCharm.
 * [collective.patchwatcher](https://github.com/collective/collective.patchwatcher) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-11-08 - A companion for keeping track of patched or overridden files.
 * [collective.icecream](https://github.com/collective/collective.icecream) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2023-11-27 - Debug and inspect Plone using the icecream package.
-* [collective.pdbpp](https://github.com/collective/collective.pdbpp) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - Allows you to use the pdbpp package.
+* [collective.pdbpp](https://github.com/collective/collective.pdbpp) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-15 - Allows you to use the pdbpp package.
 
 ## Sysadmin
 
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
