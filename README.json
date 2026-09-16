@@ -86,8 +86,8 @@
             "id": 3264054,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-19T12:59:48Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-15T17:33:44Z",
+            "open_issues": 13,
             "owner": "collective",
             "repo": "collective.lineage",
             "stars": 12,
@@ -928,8 +928,8 @@
             "id": 20396366,
             "language": "JavaScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-10T15:58:48Z",
-            "open_issues": 99,
+            "last_commit": "2026-09-15T12:13:23Z",
+            "open_issues": 100,
             "owner": "plone",
             "repo": "plone.app.mosaic",
             "stars": 35,
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T10:00:07.678Z",
+    "last_updated": "2026-09-16T09:52:01.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
