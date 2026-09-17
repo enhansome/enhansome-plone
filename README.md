@@ -64,7 +64,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [dexterity.membrane](https://github.com/collective/dexterity.membrane) ⭐ 3 | 🐛 9 | 🌐 Python | 📅 2023-06-07 - Enables content to be used as users and groups in Plone sites.
 * [plone.pdfexport](https://github.com/plone/plone.pdfexport) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2024-07-21 - Generic PDF export functionality for Plone content.
 * [collective.folderishtypes](https://github.com/collective/collective.folderishtypes) ⭐ 2 | 🐛 6 | 🌐 Python | 📅 2022-11-15 - Provides the types "Folderish Event", "Folderish News Item" and "Folderish Document" as replacements for default types. Those types are able to hold any other content, like a Folder.
-* [collective.geolocationbehavior](https://github.com/collective/collective.geolocationbehavior) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-07-25 - Geotagging for Plone content using LeafletJS.
+* [collective.geolocationbehavior](https://github.com/collective/collective.geolocationbehavior) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-09-16 - Geotagging for Plone content using LeafletJS.
 * [collective.person](https://github.com/collective/collective.person) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-05-20 - A content type to represent a person, with an optional behavior to connect it to a Plone user.
 * [collective.consent](https://github.com/collective/collective.consent) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-01-19 - Ask users for consent to different topics, before they can continue.
 * [collective.mirror](https://github.com/collective/collective.mirror) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-03-03 - A content type that mirrors the content of any other container.
@@ -110,7 +110,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that extend the layout editor plone.app.mosaic.*
 
-* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 14 | 🌐 Python | 📅 2026-09-10 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
+* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 15 | 🌐 Python | 📅 2026-09-16 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
 * [collective.tiles.collection](https://github.com/collective/collective.tiles.collection) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-06-25 - A tile that shows a set of collection results with possibility to choose (and develop) custom layouts.
 * [collective.tiles.carousel](https://github.com/collective/collective.tiles.carousel) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-21 - A slider tile for plone.app.mosaic based on the carousel component of Bootstrap 5.
 * [collective.tiles.advancedstatic](https://github.com/collective/collective.tiles.advancedstatic) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-05-07 - A tile that shows html text (similar to the static text portlet), with some additional configuration like the possibility to add custom css classes.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

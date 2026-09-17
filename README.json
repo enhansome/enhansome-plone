@@ -320,8 +320,8 @@
             "id": 4016089,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-07-25T06:59:32Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-16T15:04:30Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "collective.geolocationbehavior",
             "stars": 2,
@@ -999,8 +999,8 @@
             "id": 2414896,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T15:54:20Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-16T23:32:59Z",
+            "open_issues": 15,
             "owner": "plone",
             "repo": "plone.app.standardtiles",
             "stars": 7,
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:52:01.806Z",
+    "last_updated": "2026-09-17T09:56:40.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
