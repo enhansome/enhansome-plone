@@ -808,8 +808,8 @@
             "id": 4799743,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-19T21:02:34Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-20T20:46:48Z",
+            "open_issues": 4,
             "owner": "collective",
             "repo": "Products.PloneKeywordManager",
             "stars": 4,
@@ -951,8 +951,8 @@
             "id": 432243270,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-03T06:59:09Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-21T01:23:19Z",
+            "open_issues": 5,
             "owner": "collective",
             "repo": "collective.contentsections",
             "stars": 10,
@@ -1587,7 +1587,7 @@
         {
           "node_type": "item",
           "title": "collective.wavesurfer",
-          "description": "Implementation of https://wavesurfer-js.org audio player for Plone.",
+          "description": "Implementation of https://wavesurfer.xyz/ audio player for Plone.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1852,8 +1852,8 @@
             "id": 84196371,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-19T16:52:25Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-20T20:52:07Z",
+            "open_issues": 2,
             "owner": "collective",
             "repo": "collective.impersonate",
             "stars": 8,
@@ -2285,8 +2285,8 @@
             "id": 9357035,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-19T17:22:22Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-20T20:46:57Z",
+            "open_issues": 3,
             "owner": "collective",
             "repo": "Products.PDBDebugMode",
             "stars": 2,
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:44:52.769Z",
+    "last_updated": "2026-09-21T10:37:44.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
@@ -2679,8 +2679,8 @@
       "id": 123825556,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-06-05T05:41:53Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-20T11:32:37Z",
+      "open_issues": 0,
       "owner": "collective",
       "repo": "awesome-plone",
       "stars": 78,
@@ -2693,7 +2693,7 @@
         "zope"
       ]
     },
-    "original_repository_sha": "2a8601ac9e3a78326e5f9a7991ba80de139d0e10",
+    "original_repository_sha": "e3ae6c737a4dae792c86c550b65f8e93e441f15b",
     "enhanced_repository": "enhansome/enhansome-plone",
     "enhanced_repository_description": null,
     "title": "Awesome Plone with stars"
