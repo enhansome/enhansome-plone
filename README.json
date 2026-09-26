@@ -48,7 +48,7 @@
             "open_issues": 21,
             "owner": "collective",
             "repo": "collective.documentviewer",
-            "stars": 20,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
@@ -695,8 +695,8 @@
             "id": 6044962,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-19T13:37:25Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-25T21:22:54Z",
+            "open_issues": 29,
             "owner": "collective",
             "repo": "collective.taxonomy",
             "stars": 18,
@@ -743,8 +743,8 @@
             "id": 75113689,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-19T13:37:42Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-25T14:53:02Z",
+            "open_issues": 29,
             "owner": "collective",
             "repo": "collective.collectionfilter",
             "stars": 9,
@@ -911,7 +911,7 @@
             "open_issues": 78,
             "owner": "collective",
             "repo": "collective.cover",
-            "stars": 48,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:05.252Z"
@@ -928,8 +928,8 @@
             "id": 20396366,
             "language": "JavaScript",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-22T13:22:24Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-26T09:48:26Z",
+            "open_issues": 100,
             "owner": "plone",
             "repo": "plone.app.mosaic",
             "stars": 35,
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:08:41.419Z",
+    "last_updated": "2026-09-26T09:49:23.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
