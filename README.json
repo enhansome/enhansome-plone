@@ -929,7 +929,7 @@
             "language": "JavaScript",
             "license": "GPL-2.0",
             "last_commit": "2026-09-30T20:04:22Z",
-            "open_issues": 101,
+            "open_issues": 100,
             "owner": "plone",
             "repo": "plone.app.mosaic",
             "stars": 35,
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:04:20.017Z",
+    "last_updated": "2026-10-05T12:12:40.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
