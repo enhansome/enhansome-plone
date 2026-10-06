@@ -89,7 +89,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.elasticsearch](https://github.com/collective/collective.elasticsearch) ⭐ 18 | 🐛 34 | 🌐 Python | 📅 2026-08-19 - Use Elasticsearch as the search backend for Plone.
 * [collective.taxonomy](https://github.com/collective/collective.taxonomy) ⭐ 18 | 🐛 29 | 🌐 Python | 📅 2026-10-02 - Create, edit and use hierarchical taxonomies to categorize content.
 * [cioppino.twothumbs](https://github.com/collective/cioppino.twothumbs) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2023-02-14 - Rate content using up- and down-thumbs.
-* [collective.collectionfilter](https://github.com/collective/collective.collectionfilter) ⭐ 9 | 🐛 28 | 🌐 Python | 📅 2026-09-27 - Faceted navigation filter for collection or contentlisting tiles.
+* [collective.collectionfilter](https://github.com/collective/collective.collectionfilter) ⭐ 9 | 🐛 29 | 🌐 Python | 📅 2026-10-05 - Faceted navigation filter for collection or contentlisting tiles.
 * [collective.searchandreplace](https://github.com/collective/collective.searchandreplace) ⭐ 5 | 🐛 7 | 🌐 Python | 📅 2025-09-23 - Find and replace text in Plone content objects.
 * [eea.facetednavigation](https://github.com/collective/eea.facetednavigation) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-09-03 - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
 * [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-09-27 - Change, merge and delete keywords/tags/subjects).
@@ -102,7 +102,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 *Products and resources that help developers and users to create and manage site layouts.*
 
 * [collective.cover](https://github.com/collective/collective.cover) ⭐ 47 | 🐛 78 | 🌐 Python | 📅 2025-04-22 - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
-* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 100 | 🌐 JavaScript | 📅 2026-09-30 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
+* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 101 | 🌐 JavaScript | 📅 2026-10-05 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
 * [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 4 | 🌐 Python | 📅 2026-09-30 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 * [collective.gridlisting](https://github.com/collective/collective.gridlisting) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-07-25 - Adds a dexterity behavior and a browser template to manipulate folder and collection listings by adding Bootstrap 5 CSS classes and `pat-masonry` from patternslib.
 
@@ -110,7 +110,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that extend the layout editor plone.app.mosaic.*
 
-* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 14 | 🌐 Python | 📅 2026-10-02 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
+* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 15 | 🌐 Python | 📅 2026-10-05 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
 * [collective.tiles.collection](https://github.com/collective/collective.tiles.collection) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-06-25 - A tile that shows a set of collection results with possibility to choose (and develop) custom layouts.
 * [collective.tiles.carousel](https://github.com/collective/collective.tiles.carousel) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - A slider tile for plone.app.mosaic based on the carousel component of Bootstrap 5.
 * [collective.tiles.advancedstatic](https://github.com/collective/collective.tiles.advancedstatic) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-05-07 - A tile that shows html text (similar to the static text portlet), with some additional configuration like the possibility to add custom css classes.
@@ -119,7 +119,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that handle events and calendars.*
 
-* [collective.venue](https://github.com/collective/collective.venue) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-09-26 - Venue type with geolocation support for use with events or any other location specific content.
+* [collective.venue](https://github.com/collective/collective.venue) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-09-26 - Venue type with geolocation support for use with events or any other location specific content.
 * [collective.easyformplugin.registration](https://github.com/collective/collective.easyformplugin.registration) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-09-01 - Add a behavior to collective.easyform to manage registration forms for events.
 * [collective.fullcalendar](https://github.com/collective/collective.fullcalendar) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2024-12-21 - Display events in a nice calendar UI using <https://fullcalendar.io>.
 
@@ -170,7 +170,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons for search engine optimization.*
 
-* [collective.behavior.seo](https://github.com/collective/collective.behavior.seo) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2026-07-25 - Adds extra fields used for SEO optimisation.
+* [collective.behavior.seo](https://github.com/collective/collective.behavior.seo) ⭐ 3 | 🐛 6 | 🌐 Python | 📅 2026-10-06 - Adds extra fields used for SEO optimisation.
 * [bda.plone.gtm](https://github.com/bluedynamics/bda.plone.gtm) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2023-03-22 - Google Tag Manager Integration.
 * [kitconcept.seo](https://github.com/kitconcept/kitconcept.seo) ⭐ 1 | 🐛 7 | 🌐 Python | 📅 2026-04-07 - Adds extra fields used for SEO optimisation for sites using Volto.
 * [collective.splitsitemap](https://github.com/collective/collective.splitsitemap) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - Provides a cached split sitemap on big public sites.
@@ -182,7 +182,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [pas.plugins.ldap](https://github.com/collective/pas.plugins.ldap) ⭐ 13 | 🐛 14 | 🌐 Python | 📅 2026-08-20 - Provides users and groups from a LDAP directory.
 * [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic) ⭐ 10 | 🐛 16 | 🌐 Python | 📅 2026-07-14 - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
 * [collective.impersonate](https://github.com/collective/collective.impersonate) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-09-27 - Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.
-* [pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) ⭐ 6 | 🐛 18 | 🌐 Python | 📅 2026-09-29 - Login using OIDC providers.
+* [pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) ⭐ 6 | 🐛 17 | 🌐 Python | 📅 2026-09-29 - Login using OIDC providers.
 * [iw.rejectanonymous](https://github.com/collective/iw.rejectanonymous) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2026-05-07 - Reject unconditionnally anonymous users from a Plone site, without any change in your security policy matrix or workflows. The basic use case is an extranet, where all visitors must be authenticated.
 * [pas.plugins.headers](https://github.com/collective/pas.plugins.headers) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-30 - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
 * [wcs.samlauth](https://github.com/collective/wcs.samlauth) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-12-17 - Login using SAML providers.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
