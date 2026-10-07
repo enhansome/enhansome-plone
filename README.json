@@ -1713,8 +1713,8 @@
             "id": 152760391,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T05:17:15Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-07T06:32:03Z",
+            "open_issues": 7,
             "owner": "collective",
             "repo": "collective.behavior.seo",
             "stars": 3,
@@ -2569,7 +2569,7 @@
             "id": 6047090,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2025-10-16T10:50:17Z",
+            "last_commit": "2026-10-06T14:32:50Z",
             "open_issues": 3,
             "owner": "collective",
             "repo": "haufe.requestmonitoring",
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:58:35.630Z",
+    "last_updated": "2026-10-07T11:43:22.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
