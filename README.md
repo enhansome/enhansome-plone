@@ -102,7 +102,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 *Products and resources that help developers and users to create and manage site layouts.*
 
 * [collective.cover](https://github.com/collective/collective.cover) ⭐ 47 | 🐛 78 | 🌐 Python | 📅 2025-04-22 - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
-* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 101 | 🌐 JavaScript | 📅 2026-10-05 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
+* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 100 | 🌐 JavaScript | 📅 2026-10-09 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
 * [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 4 | 🌐 Python | 📅 2026-09-30 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 * [collective.gridlisting](https://github.com/collective/collective.gridlisting) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-07-25 - Adds a dexterity behavior and a browser template to manipulate folder and collection listings by adding Bootstrap 5 CSS classes and `pat-masonry` from patternslib.
 
@@ -110,7 +110,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that extend the layout editor plone.app.mosaic.*
 
-* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 15 | 🌐 Python | 📅 2026-10-05 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
+* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 14 | 🌐 Python | 📅 2026-10-09 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
 * [collective.tiles.collection](https://github.com/collective/collective.tiles.collection) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-06-25 - A tile that shows a set of collection results with possibility to choose (and develop) custom layouts.
 * [collective.tiles.carousel](https://github.com/collective/collective.tiles.carousel) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - A slider tile for plone.app.mosaic based on the carousel component of Bootstrap 5.
 * [collective.tiles.advancedstatic](https://github.com/collective/collective.tiles.advancedstatic) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-05-07 - A tile that shows html text (similar to the static text portlet), with some additional configuration like the possibility to add custom css classes.
@@ -170,7 +170,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons for search engine optimization.*
 
-* [collective.behavior.seo](https://github.com/collective/collective.behavior.seo) ⭐ 3 | 🐛 7 | 🌐 Python | 📅 2026-10-07 - Adds extra fields used for SEO optimisation.
+* [collective.behavior.seo](https://github.com/collective/collective.behavior.seo) ⭐ 3 | 🐛 6 | 🌐 Python | 📅 2026-10-09 - Adds extra fields used for SEO optimisation.
 * [bda.plone.gtm](https://github.com/bluedynamics/bda.plone.gtm) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2023-03-22 - Google Tag Manager Integration.
 * [kitconcept.seo](https://github.com/kitconcept/kitconcept.seo) ⭐ 1 | 🐛 7 | 🌐 Python | 📅 2026-04-07 - Adds extra fields used for SEO optimisation for sites using Volto.
 * [collective.splitsitemap](https://github.com/collective/collective.splitsitemap) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - Provides a cached split sitemap on big public sites.
@@ -228,7 +228,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that help admins deploying and maintaining Plone*
 
-* [collective.regenv](https://github.com/collective/collective.regenv) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - Override registry settings using environment variables stored in a file.
+* [collective.regenv](https://github.com/collective/collective.regenv) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-09 - Override registry settings using environment variables stored in a file.
 * [collective.sentry](https://github.com/collective/collective.sentry) ⭐ 7 | 🐛 7 | 🌐 Python | 📅 2026-10-02 - Sentry integration to aggregate errors and help finding their causes.
 * [collective.purgebyid](https://github.com/collective/collective.purgebyid) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-09-30 - Use tag-based cache invalidation in Plone (e.g. with Varnish's xkey module).
 * [collective.revisionmanager](https://github.com/collective/collective.revisionmanager) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-07-25 - Manage Products.CMFEditions histories that can bloat your database.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
