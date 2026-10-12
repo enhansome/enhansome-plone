@@ -65,8 +65,8 @@
             "id": 12105485,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-09T13:44:41Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-11T11:58:01Z",
+            "open_issues": 11,
             "owner": "collective",
             "repo": "collective.documentgenerator",
             "stars": 16,
@@ -1686,8 +1686,8 @@
             "id": 793490103,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T05:54:19Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-12T06:31:32Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.contactformprotection",
             "stars": 0,
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:21:39.030Z",
+    "last_updated": "2026-10-12T13:03:34.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
