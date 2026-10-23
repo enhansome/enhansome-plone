@@ -152,7 +152,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [plone.app.imagecropping](https://github.com/collective/plone.app.imagecropping) ⭐ 9 | 🐛 16 | 🌐 Python | 📅 2026-07-09 - Crops Images in Plone manually using cropper JS library.
 * [collective.lazysizes](https://github.com/collective/collective.lazysizes) ⭐ 6 | 🐛 8 | 🌐 Python | 📅 2020-05-01 - Integration of lazysizes, a lightweight lazy loader, into Plone.
 * [plone.gallery](https://github.com/plone/plone.gallery) ⭐ 5 | 🐛 19 | 🌐 Python | 📅 2026-02-28 - Photo gallery view for Plone.
-* [collective.behavior.relatedmedia](https://github.com/collective/collective.behavior.relatedmedia) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-10-13 - A behavior to create/upload/manage media relations (Image, File) for content types.
+* [collective.behavior.relatedmedia](https://github.com/collective/collective.behavior.relatedmedia) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-10-22 - A behavior to create/upload/manage media relations (Image, File) for content types.
 * [collective.behavior.banner](https://github.com/collective/collective.behavior.banner) ⭐ 3 | 🐛 11 | 🌐 Python | 📅 2026-04-13 - A behavior to create banners and sliders from banners.
 * [redturtle.gallery](https://github.com/RedTurtle/redturtle.gallery) ⭐ 2 | 🐛 15 | 🌐 Python | 📅 2026-03-26 - Adds a gallery view with a carousel made with slick.
 * [collective.autoscaling](https://github.com/collective/collective.autoscaling) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2024-08-01 - Automatic scaling of large images. Useful to reduce your database size when editors upload too large images.
@@ -229,7 +229,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 *Add-ons that help admins deploying and maintaining Plone*
 
 * [collective.regenv](https://github.com/collective/collective.regenv) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-09 - Override registry settings using environment variables stored in a file.
-* [collective.sentry](https://github.com/collective/collective.sentry) ⭐ 7 | 🐛 7 | 🌐 Python | 📅 2026-10-18 - Sentry integration to aggregate errors and help finding their causes.
+* [collective.sentry](https://github.com/collective/collective.sentry) ⭐ 7 | 🐛 7 | 🌐 Python | 📅 2026-10-22 - Sentry integration to aggregate errors and help finding their causes.
 * [collective.purgebyid](https://github.com/collective/collective.purgebyid) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-20 - Use tag-based cache invalidation in Plone (e.g. with Varnish's xkey module).
 * [collective.revisionmanager](https://github.com/collective/collective.revisionmanager) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-07-25 - Manage Products.CMFEditions histories that can bloat your database.
 * [collective.fingerpointing](https://github.com/collective/collective.fingerpointing) ⭐ 5 | 🐛 22 | 🌐 Python | 📅 2025-09-18 - Keeps track of different events and write them down to an audit log.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

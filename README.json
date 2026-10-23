@@ -1489,8 +1489,8 @@
             "id": 223977154,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-13T07:43:45Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-22T20:13:02Z",
+            "open_issues": 2,
             "owner": "collective",
             "repo": "collective.behavior.relatedmedia",
             "stars": 4,
@@ -2459,7 +2459,7 @@
             "id": 202495001,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-18T22:17:00Z",
+            "last_commit": "2026-10-22T16:30:54Z",
             "open_issues": 7,
             "owner": "collective",
             "repo": "collective.sentry",
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T10:04:08.781Z",
+    "last_updated": "2026-10-23T09:58:19.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
