@@ -65,7 +65,7 @@
             "id": 12105485,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-11T11:58:01Z",
+            "last_commit": "2026-10-29T09:21:57Z",
             "open_issues": 11,
             "owner": "collective",
             "repo": "collective.documentgenerator",
@@ -999,8 +999,8 @@
             "id": 2414896,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T08:23:58Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-28T23:33:11Z",
+            "open_issues": 15,
             "owner": "plone",
             "repo": "plone.app.standardtiles",
             "stars": 7,
@@ -1110,7 +1110,7 @@
             "id": 169256322,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-01T21:56:22Z",
+            "last_commit": "2026-10-28T23:00:27Z",
             "open_issues": 1,
             "owner": "collective",
             "repo": "collective.easyformplugin.registration",
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T11:15:59.313Z",
+    "last_updated": "2026-10-29T11:27:47.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
