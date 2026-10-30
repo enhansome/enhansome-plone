@@ -65,7 +65,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [plone.pdfexport](https://github.com/plone/plone.pdfexport) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2024-07-21 - Generic PDF export functionality for Plone content.
 * [collective.folderishtypes](https://github.com/collective/collective.folderishtypes) ⭐ 2 | 🐛 6 | 🌐 Python | 📅 2022-11-15 - Provides the types "Folderish Event", "Folderish News Item" and "Folderish Document" as replacements for default types. Those types are able to hold any other content, like a Folder.
 * [collective.geolocationbehavior](https://github.com/collective/collective.geolocationbehavior) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-09-16 - Geotagging for Plone content using LeafletJS.
-* [collective.person](https://github.com/collective/collective.person) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-05-20 - A content type to represent a person, with an optional behavior to connect it to a Plone user.
+* [collective.person](https://github.com/collective/collective.person) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-10-29 - A content type to represent a person, with an optional behavior to connect it to a Plone user.
 * [collective.consent](https://github.com/collective/collective.consent) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-01-19 - Ask users for consent to different topics, before they can continue.
 * [collective.mirror](https://github.com/collective/collective.mirror) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-03-03 - A content type that mirrors the content of any other container.
 * [collective.remoteproxy](https://github.com/collective/collective.remoteproxy) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-01 - Proxy for remote content. All remote URLs for which a local proxy was created are replaced in the resulting content.
@@ -91,7 +91,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [cioppino.twothumbs](https://github.com/collective/cioppino.twothumbs) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2023-02-14 - Rate content using up- and down-thumbs.
 * [collective.collectionfilter](https://github.com/collective/collective.collectionfilter) ⭐ 9 | 🐛 28 | 🌐 Python | 📅 2026-10-18 - Faceted navigation filter for collection or contentlisting tiles.
 * [collective.searchandreplace](https://github.com/collective/collective.searchandreplace) ⭐ 5 | 🐛 7 | 🌐 Python | 📅 2025-09-23 - Find and replace text in Plone content objects.
-* [eea.facetednavigation](https://github.com/collective/eea.facetednavigation) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-10-07 - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
+* [eea.facetednavigation](https://github.com/collective/eea.facetednavigation) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-10-30 - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
 * [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-10-27 - Change, merge and delete keywords/tags/subjects).
 * [zopyx.typesense](https://github.com/zopyx/zopyx.typesense) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2023-12-08 - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
 * [collective.elastic.plone](https://github.com/collective/collective.elastic.plone) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2024-08-02 - Elasticsearch Integration for Plone content.
@@ -110,9 +110,9 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that extend the layout editor plone.app.mosaic.*
 
-* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 15 | 🌐 Python | 📅 2026-10-28 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
+* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 14 | 🌐 Python | 📅 2026-10-29 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
 * [collective.tiles.collection](https://github.com/collective/collective.tiles.collection) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-06-25 - A tile that shows a set of collection results with possibility to choose (and develop) custom layouts.
-* [collective.tiles.carousel](https://github.com/collective/collective.tiles.carousel) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-18 - A slider tile for plone.app.mosaic based on the carousel component of Bootstrap 5.
+* [collective.tiles.carousel](https://github.com/collective/collective.tiles.carousel) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-30 - A slider tile for plone.app.mosaic based on the carousel component of Bootstrap 5.
 * [collective.tiles.advancedstatic](https://github.com/collective/collective.tiles.advancedstatic) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-05-07 - A tile that shows html text (similar to the static text portlet), with some additional configuration like the possibility to add custom css classes.
 
 ## Events
@@ -149,10 +149,10 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 *Add-ons that handle image, video and audio content.*
 
 * [wildcard.media](https://github.com/collective/wildcard.media) ⭐ 12 | 🐛 35 | 🌐 JavaScript | 📅 2025-05-22 - Provides audio and video content types and behaviors.
-* [plone.app.imagecropping](https://github.com/collective/plone.app.imagecropping) ⭐ 9 | 🐛 16 | 🌐 Python | 📅 2026-07-09 - Crops Images in Plone manually using cropper JS library.
+* [plone.app.imagecropping](https://github.com/collective/plone.app.imagecropping) ⭐ 9 | 🐛 18 | 🌐 Python | 📅 2026-10-30 - Crops Images in Plone manually using cropper JS library.
 * [collective.lazysizes](https://github.com/collective/collective.lazysizes) ⭐ 6 | 🐛 8 | 🌐 Python | 📅 2020-05-01 - Integration of lazysizes, a lightweight lazy loader, into Plone.
 * [plone.gallery](https://github.com/plone/plone.gallery) ⭐ 5 | 🐛 19 | 🌐 Python | 📅 2026-02-28 - Photo gallery view for Plone.
-* [collective.behavior.relatedmedia](https://github.com/collective/collective.behavior.relatedmedia) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-10-22 - A behavior to create/upload/manage media relations (Image, File) for content types.
+* [collective.behavior.relatedmedia](https://github.com/collective/collective.behavior.relatedmedia) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-10-29 - A behavior to create/upload/manage media relations (Image, File) for content types.
 * [collective.behavior.banner](https://github.com/collective/collective.behavior.banner) ⭐ 3 | 🐛 11 | 🌐 Python | 📅 2026-04-13 - A behavior to create banners and sliders from banners.
 * [redturtle.gallery](https://github.com/RedTurtle/redturtle.gallery) ⭐ 2 | 🐛 15 | 🌐 Python | 📅 2026-03-26 - Adds a gallery view with a carousel made with slick.
 * [collective.autoscaling](https://github.com/collective/collective.autoscaling) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2024-08-01 - Automatic scaling of large images. Useful to reduce your database size when editors upload too large images.
@@ -238,7 +238,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.catalogcleanup](https://github.com/collective/collective.catalogcleanup) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2023-11-30 - Removes data from the catalog that no longer belong to an actual object.
 * [collective.ifttt](https://github.com/collective/collective.ifttt) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2019-10-27 - Enables any Plone site to play in the IFTTT ecosystem. For example when a news item is published, then tweet about it or post it on Facebook.
 * [collective.ftw.upgrade](https://github.com/collective/collective.ftw.upgrade) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-07 - Simplifies writing and running upgrade steps for Plone add-ons and projects.
-* [plone-registryfromenviron](https://github.com/bluedynamics/plone-registryfromenviron) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-25 - Override plone.registry settings from environment variables.
+* [plone-registryfromenviron](https://github.com/bluedynamics/plone-registryfromenviron) ⭐ 0 | 🐛 4 | 🌐 Python | 📅 2026-10-25 - Override plone.registry settings from environment variables.
 * [dm.historical](https://pypi.org/project/dm.historical) - Access any historical state of your database. Can be useful to find out what happened to objects in the past and to restore accidentally deleted or modified objects.
 * [Cloudbrine](https://bluedynamics.github.io/zodb-pgjsonb/ecosystem.html) - A set of add-ons that replace the ZODB and the catalog with PostgreSQL and stores objects as queryable JSONB and can delegate image scaling to Thumbor.
 
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
