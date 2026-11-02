@@ -78,7 +78,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 ## Editing
 
-* [collective.collabora](https://github.com/collective/collective.collabora) ⭐ 6 | 🐛 5 | 🌐 Python | 📅 2026-10-30 - Collabora Online integration for Plone to provide collaborative document editing.
+* [collective.collabora](https://github.com/collective/collective.collabora) ⭐ 6 | 🐛 5 | 🌐 Python | 📅 2026-11-02 - Collabora Online integration for Plone to provide collaborative document editing.
 * [collective.bbcodesnippets](https://github.com/collective/collective.bbcodesnippets) ⭐ 1 | 🐛 4 | 🌐 Python | 📅 2026-03-07 - Provides generic and extensible BBCode markup integration for Plone.
 * [collective.richdescription](https://github.com/collective/collective.richdescription) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-28 - Formatable description field for Plone.
 * [collective.a11ycheck](https://github.com/collective/collective.a11ycheck) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-03-09 - Reports accessibility issues to your site editors when a page is saved.
@@ -103,7 +103,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [collective.cover](https://github.com/collective/collective.cover) ⭐ 47 | 🐛 78 | 🌐 Python | 📅 2025-04-22 - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
 * [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 99 | 🌐 JavaScript | 📅 2026-10-27 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
-* [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 4 | 🌐 Python | 📅 2026-10-20 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
+* [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 5 | 🌐 Python | 📅 2026-11-02 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 * [collective.gridlisting](https://github.com/collective/collective.gridlisting) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-07-25 - Adds a dexterity behavior and a browser template to manipulate folder and collection listings by adding Bootstrap 5 CSS classes and `pat-masonry` from patternslib.
 
 ## Tiles
@@ -164,7 +164,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.geotransform](https://github.com/collective/collective.geotransform) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2023-11-02 - Graceful E-mail Obfuscation for Plone.
 * [collective.explicitacquisition](https://github.com/collective/collective.explicitacquisition) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2021-03-23 - Disallow access to acquired content outside the current path.
 * [collective.lockdown](https://github.com/collective/collective.lockdown) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-05-29 - Protect Plone sites against site administrators from reconfiguring the site or making layout changes.
-* [collective.contactformprotection](https://github.com/collective/collective.contactformprotection) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-26 - Disables the default `contact-info` form or protect it with `plone.formwidget.[h|re]captcha`.
+* [collective.contactformprotection](https://github.com/collective/collective.contactformprotection) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-02 - Disables the default `contact-info` form or protect it with `plone.formwidget.[h|re]captcha`.
 
 ## SEO
 
@@ -184,7 +184,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.impersonate](https://github.com/collective/collective.impersonate) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2026-10-31 - Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.
 * [pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) ⭐ 6 | 🐛 17 | 🌐 Python | 📅 2026-10-23 - Login using OIDC providers.
 * [iw.rejectanonymous](https://github.com/collective/iw.rejectanonymous) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2026-05-07 - Reject unconditionnally anonymous users from a Plone site, without any change in your security policy matrix or workflows. The basic use case is an extranet, where all visitors must be authenticated.
-* [pas.plugins.headers](https://github.com/collective/pas.plugins.headers) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-10-26 - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
+* [pas.plugins.headers](https://github.com/collective/pas.plugins.headers) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-11-02 - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
 * [wcs.samlauth](https://github.com/collective/wcs.samlauth) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-12-17 - Login using SAML providers.
 * [collective.pwexpiry](https://github.com/collective/collective.pwexpiry) ⭐ 1 | 🐛 10 | 🌐 Python | 📅 2026-07-16 - Provideds methods for stronger user passwords in Plone and password attack protection.
 * [pas.plugins.eea](https://github.com/collective/pas.plugins.eea) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-07 - Provides user and group enumeration on top of pas.plugins.authomatic, with support for Microsoft Entra ID. Includes user and group synchronization.
@@ -230,7 +230,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [collective.regenv](https://github.com/collective/collective.regenv) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-09 - Override registry settings using environment variables stored in a file.
 * [collective.sentry](https://github.com/collective/collective.sentry) ⭐ 7 | 🐛 8 | 🌐 Python | 📅 2026-10-30 - Sentry integration to aggregate errors and help finding their causes.
-* [collective.purgebyid](https://github.com/collective/collective.purgebyid) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-20 - Use tag-based cache invalidation in Plone (e.g. with Varnish's xkey module).
+* [collective.purgebyid](https://github.com/collective/collective.purgebyid) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-11-02 - Use tag-based cache invalidation in Plone (e.g. with Varnish's xkey module).
 * [collective.revisionmanager](https://github.com/collective/collective.revisionmanager) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-07-25 - Manage Products.CMFEditions histories that can bloat your database.
 * [collective.fingerpointing](https://github.com/collective/collective.fingerpointing) ⭐ 5 | 🐛 22 | 🌐 Python | 📅 2026-10-27 - Keeps track of different events and write them down to an audit log.
 * [collective.recipe.backup](https://github.com/collective/collective.recipe.backup) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2026-10-31 - Powerful and flexible backup/restore solution for Plone.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
