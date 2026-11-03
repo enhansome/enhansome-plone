@@ -59,7 +59,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.easyformplugin.createdx](https://github.com/collective/collective.easyformplugin.createdx) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2022-01-18 - Creates Plone content objects from EasyForm submissions.
 * [collective.pdfjs](https://github.com/collective/collective.pdfjs) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-26 - Plone integration for Mozilla's JavaScript PDF reader.
 * [collective.mailchimp](https://github.com/collective/collective.mailchimp) ⭐ 5 | 🐛 7 | 🌐 Python | 📅 2024-07-15 - MailChimp newsletter integration for Plone.
-* [collective.glossary](https://github.com/collective/collective.glossary) ⭐ 4 | 🐛 23 | 🌐 Python | 📅 2026-10-15 - Content type to define a glossary and its terms.
+* [collective.glossary](https://github.com/collective/collective.glossary) ⭐ 4 | 🐛 21 | 🌐 Python | 📅 2026-11-02 - Content type to define a glossary and its terms.
 * [collective.folderishtraverse](https://github.com/collective/collective.folderishtraverse) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2024-12-08 - Traverse to first item in folder.
 * [dexterity.membrane](https://github.com/collective/dexterity.membrane) ⭐ 3 | 🐛 9 | 🌐 Python | 📅 2023-06-07 - Enables content to be used as users and groups in Plone sites.
 * [plone.pdfexport](https://github.com/plone/plone.pdfexport) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2024-07-21 - Generic PDF export functionality for Plone content.
@@ -68,7 +68,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.person](https://github.com/collective/collective.person) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-10-29 - A content type to represent a person, with an optional behavior to connect it to a Plone user.
 * [collective.consent](https://github.com/collective/collective.consent) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-01-19 - Ask users for consent to different topics, before they can continue.
 * [collective.mirror](https://github.com/collective/collective.mirror) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-03-03 - A content type that mirrors the content of any other container.
-* [collective.remoteproxy](https://github.com/collective/collective.remoteproxy) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-01 - Proxy for remote content. All remote URLs for which a local proxy was created are replaced in the resulting content.
+* [collective.remoteproxy](https://github.com/collective/collective.remoteproxy) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-09-01 - Proxy for remote content. All remote URLs for which a local proxy was created are replaced in the resulting content.
 * [zopyx.ipsumplone](https://github.com/zopyx/zopyx.ipsumplone) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2023-01-24 - Creates demo content and demo images for Plone.
 * [collective.folderorder](https://github.com/collective/collective.folderorder) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-11-12 - Allows alternative ordering on plone folders.
 * [collective.embeddedpage](https://github.com/collective/collective.embeddedpage) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2024-06-03 - A content type to embed remote HTML pages in Plone Classic and Volto.
@@ -89,7 +89,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.elasticsearch](https://github.com/collective/collective.elasticsearch) ⭐ 18 | 🐛 36 | 🌐 Python | 📅 2026-10-20 - Use Elasticsearch as the search backend for Plone.
 * [collective.taxonomy](https://github.com/collective/collective.taxonomy) ⭐ 18 | 🐛 15 | 🌐 Python | 📅 2026-10-30 - Create, edit and use hierarchical taxonomies to categorize content.
 * [cioppino.twothumbs](https://github.com/collective/cioppino.twothumbs) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2023-02-14 - Rate content using up- and down-thumbs.
-* [collective.collectionfilter](https://github.com/collective/collective.collectionfilter) ⭐ 9 | 🐛 29 | 🌐 Python | 📅 2026-10-30 - Faceted navigation filter for collection or contentlisting tiles.
+* [collective.collectionfilter](https://github.com/collective/collective.collectionfilter) ⭐ 9 | 🐛 30 | 🌐 Python | 📅 2026-11-02 - Faceted navigation filter for collection or contentlisting tiles.
 * [collective.searchandreplace](https://github.com/collective/collective.searchandreplace) ⭐ 5 | 🐛 7 | 🌐 Python | 📅 2025-09-23 - Find and replace text in Plone content objects.
 * [eea.facetednavigation](https://github.com/collective/eea.facetednavigation) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-10-30 - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
 * [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-10-31 - Change, merge and delete keywords/tags/subjects).
@@ -102,7 +102,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 *Products and resources that help developers and users to create and manage site layouts.*
 
 * [collective.cover](https://github.com/collective/collective.cover) ⭐ 47 | 🐛 78 | 🌐 Python | 📅 2025-04-22 - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
-* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 99 | 🌐 JavaScript | 📅 2026-10-27 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
+* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 102 | 🌐 JavaScript | 📅 2026-11-03 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
 * [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 5 | 🌐 Python | 📅 2026-11-02 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 * [collective.gridlisting](https://github.com/collective/collective.gridlisting) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-07-25 - Adds a dexterity behavior and a browser template to manipulate folder and collection listings by adding Bootstrap 5 CSS classes and `pat-masonry` from patternslib.
 
@@ -110,7 +110,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that extend the layout editor plone.app.mosaic.*
 
-* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 14 | 🌐 Python | 📅 2026-10-29 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
+* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 15 | 🌐 Python | 📅 2026-11-02 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
 * [collective.tiles.collection](https://github.com/collective/collective.tiles.collection) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-06-25 - A tile that shows a set of collection results with possibility to choose (and develop) custom layouts.
 * [collective.tiles.carousel](https://github.com/collective/collective.tiles.carousel) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-30 - A slider tile for plone.app.mosaic based on the carousel component of Bootstrap 5.
 * [collective.tiles.advancedstatic](https://github.com/collective/collective.tiles.advancedstatic) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-05-07 - A tile that shows html text (similar to the static text portlet), with some additional configuration like the possibility to add custom css classes.
@@ -127,9 +127,9 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that allow generating and using forms.*
 
-* [collective.easyform](https://github.com/collective/collective.easyform) ⭐ 16 | 🐛 103 | 🌐 Python | 📅 2026-10-20 - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
-* [collective.z3cform.datagridfield](https://github.com/collective/collective.z3cform.datagridfield) ⭐ 8 | 🐛 20 | 🌐 Python | 📅 2026-10-20 - A field with a datagrid (table), where each row is a sub form.
-* [collective.honeypot](https://github.com/collective/collective.honeypot) ⭐ 5 | 🐛 12 | 🌐 Python | 📅 2026-10-30 - Honeypot protection for forms.
+* [collective.easyform](https://github.com/collective/collective.easyform) ⭐ 16 | 🐛 104 | 🌐 Python | 📅 2026-11-03 - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
+* [collective.z3cform.datagridfield](https://github.com/collective/collective.z3cform.datagridfield) ⭐ 8 | 🐛 21 | 🌐 Python | 📅 2026-11-03 - A field with a datagrid (table), where each row is a sub form.
+* [collective.honeypot](https://github.com/collective/collective.honeypot) ⭐ 5 | 🐛 12 | 🌐 Python | 📅 2026-11-03 - Honeypot protection for forms.
 * [collective.z3cform.norobots](https://github.com/collective/collective.z3cform.norobots) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2025-09-05 - A "human" captcha widget based on a list of questions/answers.
 * [collective.fieldedit](https://github.com/collective/collective.fieldedit) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2023-11-02 - A flexible form to edit selected fields of a content type.
 * [plone.formwidgets.hcaptcha](https://github.com/plone/plone.formwidget.hcaptcha) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-06-17 - HCaptcha widget to protect Plone from bots, spam, and other forms of automated abuse.
@@ -170,7 +170,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons for search engine optimization.*
 
-* [collective.behavior.seo](https://github.com/collective/collective.behavior.seo) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2026-10-20 - Adds extra fields used for SEO optimisation.
+* [collective.behavior.seo](https://github.com/collective/collective.behavior.seo) ⭐ 3 | 🐛 6 | 🌐 Python | 📅 2026-11-03 - Adds extra fields used for SEO optimisation.
 * [bda.plone.gtm](https://github.com/bluedynamics/bda.plone.gtm) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2023-03-22 - Google Tag Manager Integration.
 * [kitconcept.seo](https://github.com/kitconcept/kitconcept.seo) ⭐ 1 | 🐛 7 | 🌐 Python | 📅 2026-04-07 - Adds extra fields used for SEO optimisation for sites using Volto.
 * [collective.splitsitemap](https://github.com/collective/collective.splitsitemap) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - Provides a cached split sitemap on big public sites.
@@ -222,7 +222,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.debugtools](https://github.com/collective/collective.debugtools) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-29 - Add remote debugging via debugpy for debugpy-compatible clients like VSCode or PyCharm.
 * [collective.patchwatcher](https://github.com/collective/collective.patchwatcher) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-11-08 - A companion for keeping track of patched or overridden files.
 * [collective.icecream](https://github.com/collective/collective.icecream) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2023-11-27 - Debug and inspect Plone using the icecream package.
-* [collective.pdbpp](https://github.com/collective/collective.pdbpp) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-27 - Allows you to use the pdbpp package.
+* [collective.pdbpp](https://github.com/collective/collective.pdbpp) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-03 - Allows you to use the pdbpp package.
 
 ## Sysadmin
 
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
