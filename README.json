@@ -1041,7 +1041,7 @@
             "id": 313572271,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-30T03:33:18Z",
+            "last_commit": "2026-11-06T03:33:11Z",
             "open_issues": 1,
             "owner": "collective",
             "repo": "collective.tiles.carousel",
@@ -1424,7 +1424,7 @@
             "id": 6203014,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-04T17:08:59Z",
+            "last_commit": "2026-11-06T05:17:36Z",
             "open_issues": 20,
             "owner": "collective",
             "repo": "plone.app.imagecropping",
@@ -1489,7 +1489,7 @@
             "id": 223977154,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-29T20:13:14Z",
+            "last_commit": "2026-11-05T20:13:02Z",
             "open_issues": 2,
             "owner": "collective",
             "repo": "collective.behavior.relatedmedia",
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:05:56.383Z",
+    "last_updated": "2026-11-06T12:52:51.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
