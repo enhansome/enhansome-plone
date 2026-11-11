@@ -55,7 +55,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.documentgenerator](https://github.com/collective/collective.documentgenerator) ⭐ 16 | 🐛 10 | 🌐 Python | 📅 2026-11-03 - Generate Documents (.odt, .pdf, .doc) from content based on appy framework (<https://appyframe.work/>) and OpenOffice/LibreOffice.
 * [collective.lineage](https://github.com/collective/collective.lineage) ⭐ 12 | 🐛 12 | 🌐 Python | 📅 2026-11-09 - Subsites: Turns subfolders of a Plone site to appear as autonomous Plone sites. There is also a whole ecosystem off addons specific to subsites.
 * [collective.dexteritytextindexer](https://github.com/collective/collective.dexteritytextindexer) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2022-12-27 - Dynamic SearchableText index for dexterity content types. For Plone 6 this was merged into Plone core.
-* [collective.workspace](https://github.com/collective/collective.workspace) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2026-10-27 - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
+* [collective.workspace](https://github.com/collective/collective.workspace) ⭐ 7 | 🐛 4 | 🌐 Python | 📅 2026-11-11 - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
 * [collective.easyformplugin.createdx](https://github.com/collective/collective.easyformplugin.createdx) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2022-01-18 - Creates Plone content objects from EasyForm submissions.
 * [collective.pdfjs](https://github.com/collective/collective.pdfjs) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-26 - Plone integration for Mozilla's JavaScript PDF reader.
 * [collective.mailchimp](https://github.com/collective/collective.mailchimp) ⭐ 5 | 🐛 7 | 🌐 Python | 📅 2024-07-15 - MailChimp newsletter integration for Plone.
@@ -64,7 +64,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [dexterity.membrane](https://github.com/collective/dexterity.membrane) ⭐ 3 | 🐛 9 | 🌐 Python | 📅 2023-06-07 - Enables content to be used as users and groups in Plone sites.
 * [plone.pdfexport](https://github.com/plone/plone.pdfexport) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2024-07-21 - Generic PDF export functionality for Plone content.
 * [collective.folderishtypes](https://github.com/collective/collective.folderishtypes) ⭐ 2 | 🐛 6 | 🌐 Python | 📅 2022-11-15 - Provides the types "Folderish Event", "Folderish News Item" and "Folderish Document" as replacements for default types. Those types are able to hold any other content, like a Folder.
-* [collective.geolocationbehavior](https://github.com/collective/collective.geolocationbehavior) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-09-16 - Geotagging for Plone content using LeafletJS.
+* [collective.geolocationbehavior](https://github.com/collective/collective.geolocationbehavior) ⭐ 2 | 🐛 5 | 🌐 Python | 📅 2026-09-16 - Geotagging for Plone content using LeafletJS.
 * [collective.person](https://github.com/collective/collective.person) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-10-29 - A content type to represent a person, with an optional behavior to connect it to a Plone user.
 * [collective.consent](https://github.com/collective/collective.consent) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-01-19 - Ask users for consent to different topics, before they can continue.
 * [collective.mirror](https://github.com/collective/collective.mirror) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-03-03 - A content type that mirrors the content of any other container.
@@ -142,7 +142,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [plone.app.multilingualindexes](https://github.com/plone/plone.app.multilingualindexes) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2021-11-22 - Indexes optimized to query multilingual content made with plone.app.multilingual.
 * [collective.multilingual](https://github.com/collective/collective.multilingual/tree/fix-tests) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-07-02 - This add-on provides support for content in multiple languages (multilingual).
 * [collective.linguatags](https://github.com/collective/collective.linguatags) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2023-06-14 - Multilingual Tags for Plone.
-* [cs.adminlanguage](https://github.com/codesyntax/cs.adminlanguage) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-11-03 - Configure a language to be used when editing your Plone site, independent to the site language.
+* [cs.adminlanguage](https://github.com/codesyntax/cs.adminlanguage) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-11-10 - Configure a language to be used when editing your Plone site, independent to the site language.
 
 ## Media
 
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
