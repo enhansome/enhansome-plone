@@ -64,8 +64,8 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [dexterity.membrane](https://github.com/collective/dexterity.membrane) ⭐ 3 | 🐛 9 | 🌐 Python | 📅 2023-06-07 - Enables content to be used as users and groups in Plone sites.
 * [plone.pdfexport](https://github.com/plone/plone.pdfexport) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2024-07-21 - Generic PDF export functionality for Plone content.
 * [collective.folderishtypes](https://github.com/collective/collective.folderishtypes) ⭐ 2 | 🐛 6 | 🌐 Python | 📅 2022-11-15 - Provides the types "Folderish Event", "Folderish News Item" and "Folderish Document" as replacements for default types. Those types are able to hold any other content, like a Folder.
-* [collective.geolocationbehavior](https://github.com/collective/collective.geolocationbehavior) ⭐ 2 | 🐛 5 | 🌐 Python | 📅 2026-09-16 - Geotagging for Plone content using LeafletJS.
-* [collective.person](https://github.com/collective/collective.person) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-10-29 - A content type to represent a person, with an optional behavior to connect it to a Plone user.
+* [collective.geolocationbehavior](https://github.com/collective/collective.geolocationbehavior) ⭐ 2 | 🐛 7 | 🌐 Python | 📅 2026-11-12 - Geotagging for Plone content using LeafletJS.
+* [collective.person](https://github.com/collective/collective.person) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - A content type to represent a person, with an optional behavior to connect it to a Plone user.
 * [collective.consent](https://github.com/collective/collective.consent) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-01-19 - Ask users for consent to different topics, before they can continue.
 * [collective.mirror](https://github.com/collective/collective.mirror) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-03-03 - A content type that mirrors the content of any other container.
 * [collective.remoteproxy](https://github.com/collective/collective.remoteproxy) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-09-01 - Proxy for remote content. All remote URLs for which a local proxy was created are replaced in the resulting content.
@@ -78,7 +78,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 ## Editing
 
-* [collective.collabora](https://github.com/collective/collective.collabora) ⭐ 6 | 🐛 5 | 🌐 Python | 📅 2026-11-02 - Collabora Online integration for Plone to provide collaborative document editing.
+* [collective.collabora](https://github.com/collective/collective.collabora) ⭐ 6 | 🐛 4 | 🌐 Python | 📅 2026-11-12 - Collabora Online integration for Plone to provide collaborative document editing.
 * [collective.bbcodesnippets](https://github.com/collective/collective.bbcodesnippets) ⭐ 1 | 🐛 4 | 🌐 Python | 📅 2026-03-07 - Provides generic and extensible BBCode markup integration for Plone.
 * [collective.richdescription](https://github.com/collective/collective.richdescription) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-28 - Formatable description field for Plone.
 * [collective.a11ycheck](https://github.com/collective/collective.a11ycheck) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-03-09 - Reports accessibility issues to your site editors when a page is saved.
@@ -196,7 +196,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 ## Export, Import and Migrations
 
-* [collective.exportimport](https://github.com/collective/collective.exportimport) ⭐ 19 | 🐛 47 | 🌐 Python | 📅 2026-07-30 - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
+* [collective.exportimport](https://github.com/collective/collective.exportimport) ⭐ 19 | 🐛 48 | 🌐 Python | 📅 2026-07-30 - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
 * [collective.migrationhelpers](https://github.com/collective/collective.migrationhelpers) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2023-06-05 - Helpers and examples to use during migrations.
 * [collective.jsonify](https://github.com/collective/collective.jsonify) ⭐ 12 | 🐛 4 | 🌐 Python | 📅 2023-02-10 - Export Plone content to JSON.
 * [collective.transmogrifier](https://github.com/collective/collective.transmogrifier) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2023-04-24 - A configurable pipeline, aimed at transforming content for import and export.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
