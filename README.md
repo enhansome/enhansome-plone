@@ -64,7 +64,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [dexterity.membrane](https://github.com/collective/dexterity.membrane) ⭐ 3 | 🐛 9 | 🌐 Python | 📅 2023-06-07 - Enables content to be used as users and groups in Plone sites.
 * [plone.pdfexport](https://github.com/plone/plone.pdfexport) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2024-07-21 - Generic PDF export functionality for Plone content.
 * [collective.folderishtypes](https://github.com/collective/collective.folderishtypes) ⭐ 2 | 🐛 6 | 🌐 Python | 📅 2022-11-15 - Provides the types "Folderish Event", "Folderish News Item" and "Folderish Document" as replacements for default types. Those types are able to hold any other content, like a Folder.
-* [collective.geolocationbehavior](https://github.com/collective/collective.geolocationbehavior) ⭐ 2 | 🐛 7 | 🌐 Python | 📅 2026-11-12 - Geotagging for Plone content using LeafletJS.
+* [collective.geolocationbehavior](https://github.com/collective/collective.geolocationbehavior) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-11-12 - Geotagging for Plone content using LeafletJS.
 * [collective.person](https://github.com/collective/collective.person) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - A content type to represent a person, with an optional behavior to connect it to a Plone user.
 * [collective.consent](https://github.com/collective/collective.consent) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-01-19 - Ask users for consent to different topics, before they can continue.
 * [collective.mirror](https://github.com/collective/collective.mirror) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-03-03 - A content type that mirrors the content of any other container.
@@ -102,7 +102,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 *Products and resources that help developers and users to create and manage site layouts.*
 
 * [collective.cover](https://github.com/collective/collective.cover) ⭐ 47 | 🐛 78 | 🌐 Python | 📅 2025-04-22 - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
-* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 103 | 🌐 JavaScript | 📅 2026-11-10 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
+* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-13 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
 * [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 5 | 🌐 Python | 📅 2026-11-09 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 * [collective.gridlisting](https://github.com/collective/collective.gridlisting) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-07-25 - Adds a dexterity behavior and a browser template to manipulate folder and collection listings by adding Bootstrap 5 CSS classes and `pat-masonry` from patternslib.
 
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
