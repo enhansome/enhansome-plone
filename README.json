@@ -2485,8 +2485,8 @@
             "id": 12104870,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T22:54:11Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-14T23:21:27Z",
+            "open_issues": 1,
             "owner": "collective",
             "repo": "collective.purgebyid",
             "stars": 6,
@@ -2671,7 +2671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:05:33.280Z",
+    "last_updated": "2026-11-15T12:40:23.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "Add-ons and resources for the CMS Plone",
