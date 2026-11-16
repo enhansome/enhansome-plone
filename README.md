@@ -55,7 +55,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.documentgenerator](https://github.com/collective/collective.documentgenerator) ⭐ 16 | 🐛 10 | 🌐 Python | 📅 2026-11-03 - Generate Documents (.odt, .pdf, .doc) from content based on appy framework (<https://appyframe.work/>) and OpenOffice/LibreOffice.
 * [collective.lineage](https://github.com/collective/collective.lineage) ⭐ 12 | 🐛 12 | 🌐 Python | 📅 2026-11-09 - Subsites: Turns subfolders of a Plone site to appear as autonomous Plone sites. There is also a whole ecosystem off addons specific to subsites.
 * [collective.dexteritytextindexer](https://github.com/collective/collective.dexteritytextindexer) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2022-12-27 - Dynamic SearchableText index for dexterity content types. For Plone 6 this was merged into Plone core.
-* [collective.workspace](https://github.com/collective/collective.workspace) ⭐ 7 | 🐛 4 | 🌐 Python | 📅 2026-11-11 - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
+* [collective.workspace](https://github.com/collective/collective.workspace) ⭐ 7 | 🐛 4 | 🌐 Python | 📅 2026-11-15 - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
 * [collective.easyformplugin.createdx](https://github.com/collective/collective.easyformplugin.createdx) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2022-01-18 - Creates Plone content objects from EasyForm submissions.
 * [collective.pdfjs](https://github.com/collective/collective.pdfjs) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-26 - Plone integration for Mozilla's JavaScript PDF reader.
 * [collective.mailchimp](https://github.com/collective/collective.mailchimp) ⭐ 5 | 🐛 7 | 🌐 Python | 📅 2024-07-15 - MailChimp newsletter integration for Plone.
@@ -87,7 +87,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [collective.solr](https://github.com/collective/collective.solr) ⭐ 22 | 🐛 61 | 🌐 Python | 📅 2026-11-06 - Solr search engine integration for Plone.
 * [collective.elasticsearch](https://github.com/collective/collective.elasticsearch) ⭐ 18 | 🐛 36 | 🌐 Python | 📅 2026-10-20 - Use Elasticsearch as the search backend for Plone.
-* [collective.taxonomy](https://github.com/collective/collective.taxonomy) ⭐ 18 | 🐛 15 | 🌐 Python | 📅 2026-11-06 - Create, edit and use hierarchical taxonomies to categorize content.
+* [collective.taxonomy](https://github.com/collective/collective.taxonomy) ⭐ 18 | 🐛 16 | 🌐 Python | 📅 2026-11-16 - Create, edit and use hierarchical taxonomies to categorize content.
 * [cioppino.twothumbs](https://github.com/collective/cioppino.twothumbs) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2023-02-14 - Rate content using up- and down-thumbs.
 * [collective.collectionfilter](https://github.com/collective/collective.collectionfilter) ⭐ 9 | 🐛 30 | 🌐 Python | 📅 2026-11-06 - Faceted navigation filter for collection or contentlisting tiles.
 * [collective.searchandreplace](https://github.com/collective/collective.searchandreplace) ⭐ 5 | 🐛 7 | 🌐 Python | 📅 2025-09-23 - Find and replace text in Plone content objects.
@@ -155,7 +155,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.behavior.relatedmedia](https://github.com/collective/collective.behavior.relatedmedia) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-11-05 - A behavior to create/upload/manage media relations (Image, File) for content types.
 * [collective.behavior.banner](https://github.com/collective/collective.behavior.banner) ⭐ 3 | 🐛 11 | 🌐 Python | 📅 2026-04-13 - A behavior to create banners and sliders from banners.
 * [redturtle.gallery](https://github.com/RedTurtle/redturtle.gallery) ⭐ 2 | 🐛 15 | 🌐 Python | 📅 2026-03-26 - Adds a gallery view with a carousel made with slick.
-* [collective.autoscaling](https://github.com/collective/collective.autoscaling) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2024-08-01 - Automatic scaling of large images. Useful to reduce your database size when editors upload too large images.
+* [collective.autoscaling](https://github.com/collective/collective.autoscaling) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-11-16 - Automatic scaling of large images. Useful to reduce your database size when editors upload too large images.
 * [cs\_flickrgallery](https://github.com/codesyntax/cs_flickrgallery) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-04-03 - Flickr photo gallery support for Plone.
 * [collective.wavesurfer](https://github.com/collective/collective.wavesurfer) ⭐ 0 | 🐛 2 | 🌐 JavaScript | 📅 2024-07-15 - Implementation of <https://wavesurfer.xyz/> audio player for Plone.
 
@@ -196,7 +196,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 ## Export, Import and Migrations
 
-* [collective.exportimport](https://github.com/collective/collective.exportimport) ⭐ 19 | 🐛 48 | 🌐 Python | 📅 2026-07-30 - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
+* [collective.exportimport](https://github.com/collective/collective.exportimport) ⭐ 19 | 🐛 49 | 🌐 Python | 📅 2026-11-16 - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
 * [collective.migrationhelpers](https://github.com/collective/collective.migrationhelpers) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2023-06-05 - Helpers and examples to use during migrations.
 * [collective.jsonify](https://github.com/collective/collective.jsonify) ⭐ 12 | 🐛 4 | 🌐 Python | 📅 2023-02-10 - Export Plone content to JSON.
 * [collective.transmogrifier](https://github.com/collective/collective.transmogrifier) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2023-04-24 - A configurable pipeline, aimed at transforming content for import and export.
@@ -218,7 +218,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.relationhelpers](https://github.com/collective/collective.relationhelpers) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2023-11-01 - Helpers to manage, create, export and rebuild relations in Plone 5.x. For Plone 6 this was merged into Plone core.
 * [Products.PDBDebugMode](https://github.com/collective/Products.PDBDebugMode) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-11-09 - Post-mortem debugging: open a pdb session whenever an exception occurs so you you can find out what is going wrong. Plus: By adding /pdb to a url you end up you in a pdb session on the current context. A killer tool for developers.
 * [Products.PrintingMailHost](https://github.com/collective/Products.PrintingMailHost) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-07-25 - Log mail messages instead of sending mail.
-* [experimental.gracefulblobmissing](https://github.com/collective/experimental.gracefulblobmissing/) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-05-07 - Gracefully handle missing binary files in Plone.
+* [experimental.gracefulblobmissing](https://github.com/collective/experimental.gracefulblobmissing/) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-11-16 - Gracefully handle missing binary files in Plone.
 * [collective.debugtools](https://github.com/collective/collective.debugtools) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-29 - Add remote debugging via debugpy for debugpy-compatible clients like VSCode or PyCharm.
 * [collective.patchwatcher](https://github.com/collective/collective.patchwatcher) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-11-08 - A companion for keeping track of patched or overridden files.
 * [collective.icecream](https://github.com/collective/collective.icecream) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2023-11-27 - Debug and inspect Plone using the icecream package.
@@ -232,7 +232,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.sentry](https://github.com/collective/collective.sentry) ⭐ 7 | 🐛 7 | 🌐 Python | 📅 2026-11-13 - Sentry integration to aggregate errors and help finding their causes.
 * [collective.purgebyid](https://github.com/collective/collective.purgebyid) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-11-14 - Use tag-based cache invalidation in Plone (e.g. with Varnish's xkey module).
 * [collective.revisionmanager](https://github.com/collective/collective.revisionmanager) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-07-25 - Manage Products.CMFEditions histories that can bloat your database.
-* [collective.fingerpointing](https://github.com/collective/collective.fingerpointing) ⭐ 5 | 🐛 22 | 🌐 Python | 📅 2026-10-27 - Keeps track of different events and write them down to an audit log.
+* [collective.fingerpointing](https://github.com/collective/collective.fingerpointing) ⭐ 5 | 🐛 23 | 🌐 Python | 📅 2026-11-16 - Keeps track of different events and write them down to an audit log.
 * [collective.recipe.backup](https://github.com/collective/collective.recipe.backup) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2026-10-31 - Powerful and flexible backup/restore solution for Plone.
 * [haufe.requestmonitoring](https://github.com/collective/haufe.requestmonitoring) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2026-10-06 - Detailed request logging functionality on top of the publication events. Useful to find out what takes longer than it should.
 * [collective.catalogcleanup](https://github.com/collective/collective.catalogcleanup) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2023-11-30 - Removes data from the catalog that no longer belong to an actual object.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
