@@ -50,7 +50,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that provide content-types or additional functionality for content*
 
-* [Products.EasyNewsletter](https://github.com/collective/Products.EasyNewsletter) ⭐ 29 | 🐛 25 | 🌐 Python | 📅 2026-08-06 - Powerful newsletter/mailing product for Plone.
+* [Products.EasyNewsletter](https://github.com/collective/Products.EasyNewsletter) ⭐ 29 | 🐛 25 | 🌐 Python | 📅 2026-11-24 - Powerful newsletter/mailing product for Plone.
 * [collective.documentviewer](https://github.com/collective/collective.documentviewer) ⭐ 19 | 🐛 21 | 🌐 Python | 📅 2025-09-04 - Very nice document viewer that integrates DocumentCloud viewer and PDF processing into Plone.
 * [collective.documentgenerator](https://github.com/collective/collective.documentgenerator) ⭐ 16 | 🐛 10 | 🌐 Python | 📅 2026-11-17 - Generate Documents (.odt, .pdf, .doc) from content based on appy framework (<https://appyframe.work/>) and OpenOffice/LibreOffice.
 * [collective.lineage](https://github.com/collective/collective.lineage) ⭐ 12 | 🐛 12 | 🌐 Python | 📅 2026-11-09 - Subsites: Turns subfolders of a Plone site to appear as autonomous Plone sites. There is also a whole ecosystem off addons specific to subsites.
@@ -92,7 +92,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [collective.collectionfilter](https://github.com/collective/collective.collectionfilter) ⭐ 9 | 🐛 30 | 🌐 Python | 📅 2026-11-06 - Faceted navigation filter for collection or contentlisting tiles.
 * [collective.searchandreplace](https://github.com/collective/collective.searchandreplace) ⭐ 5 | 🐛 7 | 🌐 Python | 📅 2025-09-23 - Find and replace text in Plone content objects.
 * [eea.facetednavigation](https://github.com/collective/eea.facetednavigation) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-11-20 - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
-* [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-11-21 - Change, merge and delete keywords/tags/subjects).
+* [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-11-23 - Change, merge and delete keywords/tags/subjects).
 * [zopyx.typesense](https://github.com/zopyx/zopyx.typesense) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2023-12-08 - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
 * [collective.elastic.plone](https://github.com/collective/collective.elastic.plone) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2024-08-02 - Elasticsearch Integration for Plone content.
 * [collective.bookmarks](https://github.com/collective/collective.bookmarks) ⭐ 2 | 🐛 9 | 🌐 Python | 📅 2026-08-28 - Bookmarks/ favorites/ wish-list for Plone.
@@ -102,7 +102,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 *Products and resources that help developers and users to create and manage site layouts.*
 
 * [collective.cover](https://github.com/collective/collective.cover) ⭐ 47 | 🐛 78 | 🌐 Python | 📅 2025-04-22 - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
-* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 103 | 🌐 JavaScript | 📅 2026-11-19 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
+* [plone.app.mosaic](https://github.com/plone/plone.app.mosaic) ⭐ 35 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-24 - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
 * [collective.contentsections](https://github.com/collective/collective.contentsections) ⭐ 10 | 🐛 5 | 🌐 Python | 📅 2026-11-09 - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 * [collective.gridlisting](https://github.com/collective/collective.gridlisting) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-07-25 - Adds a dexterity behavior and a browser template to manipulate folder and collection listings by adding Bootstrap 5 CSS classes and `pat-masonry` from patternslib.
 
@@ -129,7 +129,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [collective.easyform](https://github.com/collective/collective.easyform) ⭐ 16 | 🐛 105 | 🌐 Python | 📅 2026-11-10 - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
 * [collective.z3cform.datagridfield](https://github.com/collective/collective.z3cform.datagridfield) ⭐ 8 | 🐛 21 | 🌐 Python | 📅 2026-11-10 - A field with a datagrid (table), where each row is a sub form.
-* [collective.honeypot](https://github.com/collective/collective.honeypot) ⭐ 5 | 🐛 13 | 🌐 Python | 📅 2026-11-03 - Honeypot protection for forms.
+* [collective.honeypot](https://github.com/collective/collective.honeypot) ⭐ 5 | 🐛 13 | 🌐 Python | 📅 2026-11-23 - Honeypot protection for forms.
 * [collective.z3cform.norobots](https://github.com/collective/collective.z3cform.norobots) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2025-09-05 - A "human" captcha widget based on a list of questions/answers.
 * [collective.fieldedit](https://github.com/collective/collective.fieldedit) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2023-11-02 - A flexible form to edit selected fields of a content type.
 * [plone.formwidgets.hcaptcha](https://github.com/plone/plone.formwidget.hcaptcha) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-06-17 - HCaptcha widget to protect Plone from bots, spam, and other forms of automated abuse.
@@ -181,10 +181,10 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 * [pas.plugins.ldap](https://github.com/collective/pas.plugins.ldap) ⭐ 13 | 🐛 14 | 🌐 Python | 📅 2026-08-20 - Provides users and groups from a LDAP directory.
 * [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic) ⭐ 10 | 🐛 16 | 🌐 Python | 📅 2026-11-20 - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
-* [collective.impersonate](https://github.com/collective/collective.impersonate) ⭐ 8 | 🐛 4 | 🌐 Python | 📅 2026-11-23 - Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.
-* [pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) ⭐ 6 | 🐛 17 | 🌐 Python | 📅 2026-11-10 - Login using OIDC providers.
+* [collective.impersonate](https://github.com/collective/collective.impersonate) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2026-11-23 - Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.
+* [pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) ⭐ 6 | 🐛 19 | 🌐 Python | 📅 2026-11-24 - Login using OIDC providers.
 * [iw.rejectanonymous](https://github.com/collective/iw.rejectanonymous) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2026-05-07 - Reject unconditionnally anonymous users from a Plone site, without any change in your security policy matrix or workflows. The basic use case is an extranet, where all visitors must be authenticated.
-* [pas.plugins.headers](https://github.com/collective/pas.plugins.headers) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-11-23 - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
+* [pas.plugins.headers](https://github.com/collective/pas.plugins.headers) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-23 - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
 * [wcs.samlauth](https://github.com/collective/wcs.samlauth) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-12-17 - Login using SAML providers.
 * [collective.pwexpiry](https://github.com/collective/collective.pwexpiry) ⭐ 1 | 🐛 10 | 🌐 Python | 📅 2026-07-16 - Provideds methods for stronger user passwords in Plone and password attack protection.
 * [pas.plugins.eea](https://github.com/collective/pas.plugins.eea) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-07 - Provides user and group enumeration on top of pas.plugins.authomatic, with support for Microsoft Entra ID. Includes user and group synchronization.
@@ -216,13 +216,13 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [plone.reload](https://github.com/plone/plone.reload) ⭐ 12 | 🐛 7 | 🌐 Python | 📅 2026-11-23 - Code and configuration reload without server restarts.
 * [plone.app.debugtoolbar](https://github.com/plone/plone.app.debugtoolbar) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2026-08-25 - A toolbar that shows a wealth of debug information about a running Plone site and the content you are inspecting. Also includes a interactive python-shell, a TALES-expression evaluator and and code-reload.
 * [collective.relationhelpers](https://github.com/collective/collective.relationhelpers) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2023-11-01 - Helpers to manage, create, export and rebuild relations in Plone 5.x. For Plone 6 this was merged into Plone core.
-* [Products.PDBDebugMode](https://github.com/collective/Products.PDBDebugMode) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-11-21 - Post-mortem debugging: open a pdb session whenever an exception occurs so you you can find out what is going wrong. Plus: By adding /pdb to a url you end up you in a pdb session on the current context. A killer tool for developers.
+* [Products.PDBDebugMode](https://github.com/collective/Products.PDBDebugMode) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-11-23 - Post-mortem debugging: open a pdb session whenever an exception occurs so you you can find out what is going wrong. Plus: By adding /pdb to a url you end up you in a pdb session on the current context. A killer tool for developers.
 * [Products.PrintingMailHost](https://github.com/collective/Products.PrintingMailHost) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-07-25 - Log mail messages instead of sending mail.
-* [experimental.gracefulblobmissing](https://github.com/collective/experimental.gracefulblobmissing/) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-11-23 - Gracefully handle missing binary files in Plone.
+* [experimental.gracefulblobmissing](https://github.com/collective/experimental.gracefulblobmissing/) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-23 - Gracefully handle missing binary files in Plone.
 * [collective.debugtools](https://github.com/collective/collective.debugtools) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-29 - Add remote debugging via debugpy for debugpy-compatible clients like VSCode or PyCharm.
 * [collective.patchwatcher](https://github.com/collective/collective.patchwatcher) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-11-08 - A companion for keeping track of patched or overridden files.
 * [collective.icecream](https://github.com/collective/collective.icecream) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2023-11-27 - Debug and inspect Plone using the icecream package.
-* [collective.pdbpp](https://github.com/collective/collective.pdbpp) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-09 - Allows you to use the pdbpp package.
+* [collective.pdbpp](https://github.com/collective/collective.pdbpp) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-24 - Allows you to use the pdbpp package.
 
 ## Sysadmin
 
@@ -237,7 +237,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 * [haufe.requestmonitoring](https://github.com/collective/haufe.requestmonitoring) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2026-10-06 - Detailed request logging functionality on top of the publication events. Useful to find out what takes longer than it should.
 * [collective.catalogcleanup](https://github.com/collective/collective.catalogcleanup) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2023-11-30 - Removes data from the catalog that no longer belong to an actual object.
 * [collective.ifttt](https://github.com/collective/collective.ifttt) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2019-10-27 - Enables any Plone site to play in the IFTTT ecosystem. For example when a news item is published, then tweet about it or post it on Facebook.
-* [collective.ftw.upgrade](https://github.com/collective/collective.ftw.upgrade) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-23 - Simplifies writing and running upgrade steps for Plone add-ons and projects.
+* [collective.ftw.upgrade](https://github.com/collective/collective.ftw.upgrade) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-24 - Simplifies writing and running upgrade steps for Plone add-ons and projects.
 * [plone-registryfromenviron](https://github.com/bluedynamics/plone-registryfromenviron) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-10-30 - Override plone.registry settings from environment variables.
 * [dm.historical](https://pypi.org/project/dm.historical) - Access any historical state of your database. Can be useful to find out what happened to objects in the past and to restore accidentally deleted or modified objects.
 * [Cloudbrine](https://bluedynamics.github.io/zodb-pgjsonb/ecosystem.html) - A set of add-ons that replace the ZODB and the catalog with PostgreSQL and stores objects as queryable JSONB and can delegate image scaling to Thumbor.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
