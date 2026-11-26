@@ -78,7 +78,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 ## Editing
 
-* [collective.collabora](https://github.com/collective/collective.collabora) ⭐ 6 | 🐛 4 | 🌐 Python | 📅 2026-11-12 - Collabora Online integration for Plone to provide collaborative document editing.
+* [collective.collabora](https://github.com/collective/collective.collabora) ⭐ 6 | 🐛 5 | 🌐 Python | 📅 2026-11-25 - Collabora Online integration for Plone to provide collaborative document editing.
 * [collective.bbcodesnippets](https://github.com/collective/collective.bbcodesnippets) ⭐ 1 | 🐛 4 | 🌐 Python | 📅 2026-03-07 - Provides generic and extensible BBCode markup integration for Plone.
 * [collective.richdescription](https://github.com/collective/collective.richdescription) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-28 - Formatable description field for Plone.
 * [collective.a11ycheck](https://github.com/collective/collective.a11ycheck) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-03-09 - Reports accessibility issues to your site editors when a page is saved.
@@ -110,7 +110,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that extend the layout editor plone.app.mosaic.*
 
-* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 15 | 🌐 Python | 📅 2026-11-24 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
+* [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) ⭐ 7 | 🐛 16 | 🌐 Python | 📅 2026-11-25 - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
 * [collective.tiles.collection](https://github.com/collective/collective.tiles.collection) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-06-25 - A tile that shows a set of collection results with possibility to choose (and develop) custom layouts.
 * [collective.tiles.carousel](https://github.com/collective/collective.tiles.carousel) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-06 - A slider tile for plone.app.mosaic based on the carousel component of Bootstrap 5.
 * [collective.tiles.advancedstatic](https://github.com/collective/collective.tiles.advancedstatic) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-05-07 - A tile that shows html text (similar to the static text portlet), with some additional configuration like the possibility to add custom css classes.
@@ -127,7 +127,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Add-ons that allow generating and using forms.*
 
-* [collective.easyform](https://github.com/collective/collective.easyform) ⭐ 16 | 🐛 105 | 🌐 Python | 📅 2026-11-10 - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
+* [collective.easyform](https://github.com/collective/collective.easyform) ⭐ 17 | 🐛 105 | 🌐 Python | 📅 2026-11-10 - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
 * [collective.z3cform.datagridfield](https://github.com/collective/collective.z3cform.datagridfield) ⭐ 8 | 🐛 21 | 🌐 Python | 📅 2026-11-10 - A field with a datagrid (table), where each row is a sub form.
 * [collective.honeypot](https://github.com/collective/collective.honeypot) ⭐ 5 | 🐛 13 | 🌐 Python | 📅 2026-11-23 - Honeypot protection for forms.
 * [collective.z3cform.norobots](https://github.com/collective/collective.z3cform.norobots) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2025-09-05 - A "human" captcha widget based on a list of questions/answers.
@@ -204,7 +204,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 ## Themes
 
 * [plonetheme.tokyo](https://github.com/collective/plonetheme.tokyo) ⭐ 6 | 🐛 4 | 🌐 CSS | 📅 2026-07-23 - A alternative theme for Plone using Bootstrap 5.
-* [collective.sidebar](https://github.com/collective/collective.sidebar) ⭐ 6 | 🐛 21 | 🌐 Python | 📅 2026-06-10 - A sidebar that consolidates toolbar and navigation.
+* [collective.sidebar](https://github.com/collective/collective.sidebar) ⭐ 5 | 🐛 21 | 🌐 Python | 📅 2026-06-10 - A sidebar that consolidates toolbar and navigation.
 * [collective.editablemenu](https://github.com/RedTurtle/collective.editablemenu) ⭐ 3 | 🐛 32 | 🌐 Python | 📅 2026-06-23 - A customizable navigation menu for Plone.
 * [plonetheme.grueezibuesi](https://github.com/collective/plonetheme.grueezibuesi) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2021-10-31 - A kitten inspired theme for Plone 6.
 * [collective.localstyles](https://github.com/collective/collective.localstyles) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-07 - Add local styles within any subsection of a Plone site by adding a css-file.
@@ -298,4 +298,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
